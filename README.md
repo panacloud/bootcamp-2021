@@ -1,5 +1,7 @@
 # Bootcamp 2021: Learn to Build AI and AIoT Serverless Multi-Tenant SaaS APIs in Baby Steps and Build Your SaaS Startup
 
+Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front.
+
 Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS CDK for Infrastructure as Code.
 
 ## Introduction to English and Urdu Sections

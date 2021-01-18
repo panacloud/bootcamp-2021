@@ -28,7 +28,7 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 ### Teaching Team:
 
-Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf,  and [Zia Khan](https://github.com/ziaukhan).
+Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Faheem, Mateen, Daniyal Nogori, and [Zia Khan](https://github.com/ziaukhan).
 
 ## Prerequisites: Python and Rust
 

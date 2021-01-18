@@ -1,5 +1,7 @@
 # Bootcamp 2021: Learn to Build AI and AIoT Serverless Multi-Tenant SaaS APIs in Baby Steps and Build Your SaaS Startup
 
+Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS CDK for Infrastructure as Code.
+
 ## Introduction to English and Urdu Sections
 
 [Join Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)

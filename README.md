@@ -44,7 +44,7 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 [Python Tutorial For Beginners | Python Full Course From Scratch | Python Programming | Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw)
 
-### Learn Python
+### Learn Rust
 
 [The Official Rust Book](https://doc.rust-lang.org/book/)
 

@@ -76,7 +76,9 @@ Learning Material:
 
 We will be using the AI as a Service Textbook and inhancing all the examples and code using CDK.
 
-## Part 3: AIoT and Edge Computing 
+## Part 3: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
+
+## Part 4: AIoT and Edge Computing 
 
 [Getting started with AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-gs.html)
 
@@ -88,17 +90,17 @@ We will be using the Greengrass Tutorial and inhancing all the examples and code
 
 It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi 3 Model B/B+, with a 8 GB microSD card, or will have to use an Amazon EC2 instance as a virtual edge device.
 
-## Part 4: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
+## Part 5: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
 
 [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X)
 
 We will be using the Learn Amazon SageMaker Textbook and inhancing all the examples and code using CDK.
 
-## Part 5: Voice Computing
+## Part 6: Voice Computing
 
 {Add Voice To Your Serverless Apps with Alexa Through AWS CDK](https://dev.to/cdkpatterns/add-voice-to-your-serverless-apps-with-alexa-through-aws-cdk-45n0)
 
-## Part 6: Embedded Real-Time Computing
+## Part 7: Embedded Real-Time Computing
 
 [FreeRTOS](https://aws.amazon.com/freertos/)
 

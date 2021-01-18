@@ -44,7 +44,7 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 [Python Tutorial For Beginners | Python Full Course From Scratch | Python Programming | Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw)
 
-### Learn Python
+### Learn Rust
 
 [The Official Rust Book](https://doc.rust-lang.org/book/)
 
@@ -60,7 +60,9 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
 
-## Part 1: Serverless using CDK
+## Learning
+
+### Part 1: Serverless using CDK
 
 We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in Python and Lambda Functions etc. in both Python and Rust
 
@@ -72,15 +74,15 @@ Learning Material:
 
 [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
-## Part 2: Serverless Machine Learning with AWS CDK
+### Part 2: Serverless Machine Learning with AWS CDK
 
 [AI as a Service: Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
 
-We will be using the AI as a Service Textbook and inhancing all the examples and code using CDK.
+We will be using the AI as a Service Textbook and enhancing all the examples and code using CDK.
 
-## Part 3: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
+### Part 3: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
 
-## Part 4: AIoT and Edge Computing 
+### Part 4: AIoT and Edge Computing 
 
 [Getting started with AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-gs.html)
 
@@ -90,15 +92,15 @@ We will be using the AI as a Service Textbook and inhancing all the examples and
 
 We will be using the Greengrass Tutorial and inhancing all the examples and code using CDK.
 
-It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi 3 Model B/B+, with a 8 GB microSD card, or will have to use an Amazon EC2 instance as a virtual edge device.
+It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi 3 Model B/B+, with an 8 GB microSD card, or will have to use an Amazon EC2 instance as a virtual edge device.
 
-## Part 5: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
+### Part 5: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
 
 [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X)
 
-We will be using the Learn Amazon SageMaker Textbook and inhancing all the examples and code using CDK.
+We will be using the Learn Amazon SageMaker Textbook and enhancing all the examples and code using CDK.
 
-## Part 6: Voice Computing
+### Part 6: Voice Computing
 
 {Add Voice To Your Serverless Apps with Alexa Through AWS CDK](https://dev.to/cdkpatterns/add-voice-to-your-serverless-apps-with-alexa-through-aws-cdk-45n0)
 

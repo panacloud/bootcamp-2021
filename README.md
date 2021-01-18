@@ -1,4 +1,4 @@
-# Bootcamp 2021: Learn to Build AI and IoT Serverless Multi-Tenant SaaS APIs in Baby Steps and Build Your SaaS Startup
+# Bootcamp 2021: Learn to Build AI and AIoT Serverless Multi-Tenant SaaS APIs in Baby Steps and Build Your SaaS Startup
 
 ## Introduction to English and Urdu Sections
 

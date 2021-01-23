@@ -98,6 +98,8 @@ It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi
 
 [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X)
 
+[amazon-sagemaker-cdk-examples](https://github.com/aws-samples/amazon-sagemaker-cdk-examples)
+
 We will be using the Learn Amazon SageMaker Textbook and inhancing all the examples and code using CDK.
 
 ## Part 6: Voice Computing

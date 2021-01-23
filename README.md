@@ -68,9 +68,11 @@ Learning Material:
 
 [Working with the AWS CDK in Python](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html)
 
-[AWS CDK Python Reference](https://docs.aws.amazon.com/cdk/api/latest/python/index.html)
+[AWS CDK Python Reference](https://docs.aws.amazon.com/cdk/api/latest/python/index.html))
 
 [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
+
+[Sample Serverless App: Amazon Timestream with Amazon Kinesis and Grafana](https://github.com/aws-samples/amazon-kinesis-timestream-grafana)
 
 ## Part 2: Serverless Machine Learning with AWS CDK
 

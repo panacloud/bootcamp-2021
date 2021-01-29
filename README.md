@@ -102,7 +102,7 @@ We will be using the Learn Amazon SageMaker Textbook and enhancing all the examp
 
 ### Part 6: Voice Computing
 
-{Add Voice To Your Serverless Apps with Alexa Through AWS CDK](https://dev.to/cdkpatterns/add-voice-to-your-serverless-apps-with-alexa-through-aws-cdk-45n0)
+[Add Voice To Your Serverless Apps with Alexa Through AWS CDK](https://dev.to/cdkpatterns/add-voice-to-your-serverless-apps-with-alexa-through-aws-cdk-45n0)
 
 ## Part 7: Embedded Real-Time Computing
 

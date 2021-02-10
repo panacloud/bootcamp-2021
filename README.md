@@ -2,7 +2,7 @@
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front.
 
-Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS CDK for Infrastructure as Code.
+Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python, TypeScript and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS CDK with TypeScript for Infrastructure as Code.
 
 ## Introduction to English and Urdu Sections
 
@@ -44,7 +44,7 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 [Python Tutorial For Beginners | Python Full Course From Scratch | Python Programming | Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw)
 
-### Learn Python
+### Learn Rust
 
 [The Official Rust Book](https://doc.rust-lang.org/book/)
 
@@ -54,6 +54,14 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 [Learn Rust - Tutorials, Courses, and Books](https://gitconnected.com/learn/rust)
 
+### Learn TypeScript
+
+[The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+
+[Programming TypeScript](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/ref=sr_1_1)
+
+[Learn from our Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
+
 ## Must Have: Create Free AWS Account
 
 [AWS Free Tier](https://aws.amazon.com/free/)
@@ -62,17 +70,12 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 
 ## Part 1: Serverless using CDK
 
-We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in Python and Lambda Functions etc. in both Python and Rust
+We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. in Python, TypeScript and Rust
 
 Learning Material:
 
-[Working with the AWS CDK in Python](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html)
-
-[AWS CDK Python Reference](https://docs.aws.amazon.com/cdk/api/latest/python/index.html))
-
 [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
-[Sample Serverless App: Amazon Timestream with Amazon Kinesis and Grafana](https://github.com/aws-samples/amazon-kinesis-timestream-grafana)
 
 ## Part 2: Serverless Machine Learning with AWS CDK
 

@@ -62,6 +62,14 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 [Learn from our Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
+### Learn HTML, CSS & JS
+
+[Mozilla Developer Network Web Development Docs](https://developer.mozilla.org/en-US/docs/Learn)
+[Code Examples On My Docs Page](https://mtgsquad-dev.com/documentation/start.html#code-section)
+[W3Schools: Web Tutorials](https://www.w3schools.com/)
+[Coder Coder: YouTuber With Web Development Stuff](https://www.youtube.com/c/thecodercoder)
+[Dev Ed: Proffesional Frontend Web Dev, Also A YouTuber](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+
 ## Must Have: Create Free AWS Account
 
 [AWS Free Tier](https://aws.amazon.com/free/)

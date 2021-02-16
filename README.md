@@ -6,7 +6,7 @@ Covid-19 propelled businesses into the future, ready or not. “Covid has acted 
 
 [The post-pandemic future of work - according to 3,000 CEOs from around the world](https://www.weforum.org/agenda/2021/02/the-post-pandemic-future-of-work-according-to-3-000-ceos-from-around-the-world-685436524a/)
 
-![Three Technologies](fusing_three.jpg)
+![Three Technologies](three_tech.png)
 
 Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python, TypeScript and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS CDK with TypeScript for Infrastructure as Code.
 

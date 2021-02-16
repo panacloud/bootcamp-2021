@@ -13,6 +13,12 @@ Covid-19 propelled businesses into the future, ready or not. “Covid has acted 
 
 Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python, TypeScript and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS CDK with TypeScript for Infrastructure as Code.
 
+## Operation Unicorn Startups
+
+[Operation Unicorn Facebook Group](https://www.facebook.com/groups/operation.unicorn/)
+
+Bootcamp 2021 is preparing developers for Operation Unicorn Startups. More details for Operation Unicorn Startups will be announced latter.
+
 ## Introduction to English and Urdu Sections
 
 [Join Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)

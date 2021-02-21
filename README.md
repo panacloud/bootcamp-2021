@@ -49,17 +49,17 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Faheem, Mateen, Daniyal Nogori, and [Zia Khan](https://github.com/ziaukhan).
 
-## Prerequisites: Python and Rust
+## Prerequisites: Python, Rust and TypeScript
 
 ### Learn Python
 
 [The Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
-[Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners](https://www.youtube.com/watch?v=WGJJIrtnfpk)
+[Python Full Course - Learn Python in 12 Hours - Python Tutorial For Beginners](https://www.youtube.com/watch?v=WGJJIrtnfpk)
 
 [Python Tutorial - Python for Beginners 2020](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
-[Python Tutorial For Beginners | Python Full Course From Scratch | Python Programming | Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw)
+[Python Tutorial For Beginners - Python Full Course From Scratch - Python Programming - Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw)
 
 ### Learn Rust
 

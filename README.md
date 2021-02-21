@@ -8,26 +8,27 @@ Covid-19 propelled businesses into the future, ready or not. “Covid has acted 
 
 ![Three Technologies](three_tech.png)
 
-### Graph-Based AI Enters the Enterprise Mainstream
+
+### Graph-Based AI is the Future
 
 [Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141)
 
 ![Graph AI](AI-use-cases-Neo4j-1.png)
 
 
-## Bootcamp 2021 Coverage
+### Bootcamp 2021 Coverage
 
 Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python, TypeScript and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS Graph Database Neptune and AWS Cloud Development Kit (CDK) with TypeScript for Infrastructure as Code.
 
 ### Those interested in web and mobile Serverless SaaS apps and APIs should also focus on [Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
 
-## Operation Unicorn Startups
+### Operation Unicorn Startups
 
 [Operation Unicorn Facebook Group](https://www.facebook.com/groups/operation.unicorn/)
 
 Bootcamp 2021 is preparing developers for Operation Unicorn Startups. More details for Operation Unicorn Startups will be announced latter.
 
-## Introduction to English and Urdu Sections
+### Introduction to English and Urdu Sections
 
 [Join Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)
 

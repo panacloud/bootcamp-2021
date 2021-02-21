@@ -85,7 +85,7 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
 
-## Part 1: Serverless using CDK
+## Part 1: Introduction to Serverless using CDK
 
 We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. in Python, TypeScript and Rust
 
@@ -93,9 +93,7 @@ Learning Material:
 
 [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
-## Part 2:
-
-From this Tuesday to Friday we will not do anything but cover the following:
+## Part 2: Learning Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
 
 ### What is a Graph Database
 
@@ -142,12 +140,39 @@ From this Tuesday to Friday we will not do anything but cover the following:
 
 [Gremlin Basics](https://docs.janusgraph.org/basics/gremlin/)
 
+## Neptune with Lambda
 
-## Part 3: Serverless Machine Learning with AWS CDK
+[Using AWS Lambda functions in Amazon Neptune](https://docs.aws.amazon.com/neptune/latest/userguide/lambda-functions.html)
+
+
+### Drawing Graphs with Neptune Data
+
+[Let Me Graph That For You – Part 1 – Air Routes](https://aws.amazon.com/blogs/database/let-me-graph-that-for-you-part-1-air-routes/)
+
+
+[Matplotlib Introduction](https://matplotlib.org/stable/tutorials/index.html#introductory)
+
+[D3 Introduction](https://observablehq.com/@d3/learn-d3)
+
+[mpld3 - Bringing Matplotlib to the Browser](https://mpld3.github.io/quickstart.html)
+
+
+### Neptune ML and Graph AI
+
+[Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141)
+
+[How Graph Technology is Changing AI](https://databricks.com/session/how-graph-technology-is-changing-ai)
+
+[How Graph Technology is Changing Artificial Intelligence and Machine Learning](https://neo4j.com/graphconnect-2018/session/graph-technology-ai-machine-learning)
+
+[Amazon Neptune ML](https://aws.amazon.com/neptune/machine-learning/)
+
+
+## Part 3: AI as a Service
 
 [AI as a Service: Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
 
-We will be using the AI as a Service Textbook and inhancing all the examples and code using CDK.
+
 
 ## Part 4: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
 

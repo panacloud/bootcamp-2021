@@ -2,7 +2,7 @@
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front.
 
-## The Technologies which CEOs expect to Deliver Results for them over the Next Few Years
+### The Technologies which CEOs expect to Deliver Results for them over the Next Few Years
 
 [The post-pandemic future of work - according to 3,000 CEOs from around the world](https://www.weforum.org/agenda/2021/02/the-post-pandemic-future-of-work-according-to-3-000-ceos-from-around-the-world-685436524a/)
 

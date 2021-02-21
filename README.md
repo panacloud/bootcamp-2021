@@ -140,7 +140,7 @@ Learning Material:
 
 [Gremlin Basics](https://docs.janusgraph.org/basics/gremlin/)
 
-## Neptune with Lambda
+### Neptune with Lambda
 
 [Using AWS Lambda functions in Amazon Neptune](https://docs.aws.amazon.com/neptune/latest/userguide/lambda-functions.html)
 

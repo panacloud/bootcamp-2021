@@ -8,6 +8,12 @@ Covid-19 propelled businesses into the future, ready or not. “Covid has acted 
 
 ![Three Technologies](three_tech.png)
 
+### Graph-Based AI Enters the Enterprise Mainstream
+
+[Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141)
+
+![Graph AI](AI-use-cases-Neo4j-1.png)
+
 
 ## Bootcamp 2021 Coverage
 

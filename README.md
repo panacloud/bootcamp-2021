@@ -93,16 +93,65 @@ Learning Material:
 
 [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
+## Part 2:
 
-## Part 2: Serverless Machine Learning with AWS CDK
+From this Tuesday to Friday we will not do anything but cover the following:
+
+### What is a Graph Database
+
+[What is a graph database?](https://venturebeat.com/2021/02/08/what-is-a-graph-database/)
+
+### The Future of Business, AI and IoT is Graph Databases
+
+[Moving Toward Smarter Data: Graph Databases and Machine Learning](https://dzone.com/articles/graph-databases-machine-learning)
+
+[Knowledge Graphs: Navigating the Future of AI, Interview with Charlie Beveridge of Accenture](https://neo4j.com/videos/knowledge-graphs-navigating-the-future-of-ai-interview-with-charlie-beveridge-of-accenture/)
+
+[Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141)
+
+[Why Experts See Graph Databases Headed for Mainstream Use](https://www.eweek.com/database/why-experts-see-graph-databases-headed-to-mainstream-use/)
+
+[Why Graph Databases are Perfect for the Internet of Things](https://neo4j.com/blog/graph-databases-perfect-internet-things/)
+
+[Using a Graph Database to Power the Internet of Things](https://vimeo.com/95437582)
+
+[Graphs & The Internet of (Connected) Things](https://neo4j.com/blog/graph-of-things/)
+
+[A combination of Internet of Things (IoT) and graph database for future battlefield systems](https://ieeexplore.ieee.org/document/8230010)
+
+### We Select Amazon Neptune as our Graph Database
+
+[Read the Graph Data Platforms Report](https://info.tigergraph.com/forrester-wave)
+
+### Start Learning Neptune and Graph Databases
+
+[Getting started with graph databases](https://docs.aws.amazon.com/neptune/latest/userguide/graph-get-started.html)
+
+[Getting Started with Amazon Neptune - 7 Videos](https://pages.awscloud.com/AWS-Learning-Path-Getting-Started-with-Amazon-Neptune_2020_LP_0009-DAT.html)
+
+
+[Lower the cost of building graph apps by up to 76% with Amazon Neptune T3 instances](https://aws.amazon.com/blogs/database/increasing-cost-effectiveness-up-to-76-with-amazon-neptune-t3-burstable-instances/)
+
+
+### Start Learning Graph Data Modeling
+
+[Graph data modeling: Chapter 2 of Graph Databases in Action](https://livebook.manning.com/book/graph-databases-in-action/chapter-2/)
+
+
+### Start Learning Gremlin
+
+[Gremlin Basics](https://docs.janusgraph.org/basics/gremlin/)
+
+
+## Part 3: Serverless Machine Learning with AWS CDK
 
 [AI as a Service: Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
 
 We will be using the AI as a Service Textbook and inhancing all the examples and code using CDK.
 
-## Part 3: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
+## Part 4: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
 
-## Part 4: AIoT and Edge Computing 
+## Part 5: AIoT and Edge Computing 
 
 [Getting started with AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-gs.html)
 
@@ -114,7 +163,7 @@ We will be using the Greengrass Tutorial and inhancing all the examples and code
 
 It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi 3 Model B/B+, with a 8 GB microSD card, or will have to use an Amazon EC2 instance as a virtual edge device.
 
-## Part 5: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
+## Part 6: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
 
 [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X)
 
@@ -122,11 +171,11 @@ It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi
 
 We will be using the Learn Amazon SageMaker Textbook and inhancing all the examples and code using CDK.
 
-## Part 6: Voice Computing
+## Part 7: Voice Computing
 
 {Add Voice To Your Serverless Apps with Alexa Through AWS CDK](https://dev.to/cdkpatterns/add-voice-to-your-serverless-apps-with-alexa-through-aws-cdk-45n0)
 
-## Part 7: Embedded Real-Time Computing
+## Part 8: Embedded Real-Time Computing
 
 [FreeRTOS](https://aws.amazon.com/freertos/)
 

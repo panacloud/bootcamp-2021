@@ -11,7 +11,7 @@ Covid-19 propelled businesses into the future, ready or not. “Covid has acted 
 
 ## Bootcamp 2021 Coverage
 
-Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python, TypeScript and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS CDK with TypeScript for Infrastructure as Code.
+Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python, TypeScript and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS Graph Database Neptune and AWS Cloud Development Kit (CDK) with TypeScript for Infrastructure as Code.
 
 ### Those interested in web and mobile Serverless SaaS apps and APIs should also focus on [Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
 
@@ -93,7 +93,7 @@ Learning Material:
 
 [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
-## Part 2: Learning Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
+## Part 2: Learning AWS Graph Database Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
 
 ### What is a Graph Database
 

@@ -92,7 +92,11 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
 
-## Part 1: Introduction to Serverless using CDK
+## Part 1: Fast Track Review of Python and Typescript
+
+
+
+## Part 2: Introduction to Serverless using CDK
 
 We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. in Python, TypeScript and Rust
 
@@ -100,7 +104,15 @@ Learning Material:
 
 [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
-## Part 2: Learning AWS Graph Database Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
+We will focus on Serverless SaaS API development using CDK and AWS Lambda, AWS API Gateway (with [OpenAPI Specs](https://www.openapis.org/), and AWS AppSync.
+
+Also please note that we will write the application code in Python and infrasturcture code will be in Typescript.
+
+## Part 3: Learning AWS Graph Database Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
+
+### Introduction to Graph Theory
+
+[Introduction to Graph Theory](https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709/ref=sr_1_1)
 
 ### What is a Graph Database
 
@@ -138,14 +150,25 @@ Learning Material:
 [Lower the cost of building graph apps by up to 76% with Amazon Neptune T3 instances](https://aws.amazon.com/blogs/database/increasing-cost-effectiveness-up-to-76-with-amazon-neptune-t3-burstable-instances/)
 
 
-### Start Learning Graph Data Modeling
+## Start Learning Graph Data Modeling
+
+[Graph Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/)
+
+[Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/)
 
 [Graph data modeling: Chapter 2 of Graph Databases in Action](https://livebook.manning.com/book/graph-databases-in-action/chapter-2/)
 
+[Hackolade: Data Modeling Tool for Tinkerpop](https://hackolade.com/help/TinkerPop.html)
 
-### Start Learning Gremlin
+
+## Start Learning Gremlin
 
 [Gremlin Basics](https://docs.janusgraph.org/basics/gremlin/)
+
+[Practical Gremlin - An Apache TinkerPop Tutorial](https://github.com/krlawrence/graph)
+
+[Gremline Web Console](http://gremlinwebconsole.appspot.com/)
+
 
 ### Neptune with Lambda
 
@@ -175,15 +198,25 @@ Learning Material:
 [Amazon Neptune ML](https://aws.amazon.com/neptune/machine-learning/)
 
 
-## Part 3: AI as a Service
+## Part 4: AI as a Service
 
 [AI as a Service: Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
 
 
 
-## Part 4: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
+## Part 5: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
 
-## Part 5: AIoT and Edge Computing 
+## Part 6: Advanced Tensorflow
+
+[We may choose from the following books](https://www.guru99.com/best-tensorflow-books.html)
+
+Right now these two books are the best sellers:
+
+[Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1)
+
+[Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow ](https://www.amazon.com/Practical-Learning-Cloud-Mobile-Hands/dp/149203486X/ref=sr_1_9)
+
+## Part 7: AIoT and Edge Computing 
 
 [Getting started with AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-gs.html)
 
@@ -195,7 +228,7 @@ We will be using the Greengrass Tutorial and inhancing all the examples and code
 
 It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi 3 Model B/B+, with a 8 GB microSD card, or will have to use an Amazon EC2 instance as a virtual edge device.
 
-## Part 6: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
+## Part 8: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
 
 [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X)
 
@@ -203,17 +236,27 @@ It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi
 
 We will be using the Learn Amazon SageMaker Textbook and inhancing all the examples and code using CDK.
 
-## Part 7: Voice Computing
+## Part 9: Voice Computing
 
 {Add Voice To Your Serverless Apps with Alexa Through AWS CDK](https://dev.to/cdkpatterns/add-voice-to-your-serverless-apps-with-alexa-through-aws-cdk-45n0)
 
-## Part 8: Embedded Real-Time Computing
+## Part 10: Embedded Real-Time Computing
 
 [FreeRTOS](https://aws.amazon.com/freertos/)
 
 [The FreeRTOS™ Kernel](https://www.freertos.org/RTOS.html)
 
 [A FreeRTOS API for embedded Rust](http://www.hashmismatch.net/libraries/freertos_rs/)
+
+[FreeRTOS-Rust](https://github.com/lobaro/FreeRTOS-rust)
+
+[FreeRTOS.rs](https://github.com/hashmismatch/freertos.rs)
+
+[Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
+
+[Rust on PICO](https://www.seeedstudio.com/blog/2021/02/05/rust-rt-thread-os-freertos-come-to-the-raspberry-pi-pico/)
+
+[We will try to move to Pico if Rust becomes fully functional on it](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 
 
 

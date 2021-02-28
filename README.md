@@ -32,6 +32,10 @@ https://panacloud.github.io/bootcamp-2021/
 
 The recording of Bootcamp 2021 will start after the recording of Bootcamp 2020 is complete. After the recording in Bootcamp 2020 is complete, it does not mean that the Bootcamp is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
 
+[Cloud’s trillion-dollar prize is up for grabs](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/clouds-trillion-dollar-prize-is-up-for-grabs)
+
+The objective of both Bootcamp 2020 and Bootcamp 2021 is to train people to go after this prize.
+
 ### Operation Unicorn Startups
 
 [Operation Unicorn Facebook Group](https://www.facebook.com/groups/operation.unicorn/)

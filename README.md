@@ -22,6 +22,16 @@ Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies
 
 ### Those interested in web and mobile Serverless SaaS apps and APIs should also focus on [Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
 
+Difference Between Bootcamp 2020 and Bootcamp 2021
+
+The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
+https://panacloud.github.io/bootcamp-2020/
+
+The objective of Bootcamp 2021 to to train developers to develop cloud based AI and IoT powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
+https://panacloud.github.io/bootcamp-2021/
+
+The recording of Bootcamp 2021 will start after the recording of Bootcamp 2020 is complete. After the recording in Bootcamp 2020 is complete, it does not mean that the Bootcamp is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
+
 ### Operation Unicorn Startups
 
 [Operation Unicorn Facebook Group](https://www.facebook.com/groups/operation.unicorn/)

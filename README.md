@@ -111,6 +111,8 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 ### Learn Python
 
+[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+
 [The Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 [Python Full Course - Learn Python in 12 Hours - Python Tutorial For Beginners](https://www.youtube.com/watch?v=WGJJIrtnfpk)

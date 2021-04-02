@@ -319,7 +319,7 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 
 [We will try to move to Pico if Rust becomes fully functional on it](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 
-## Part 11: Advance Blockchain, Stable Coin and Ethereum 2.0 Technologies
+## Part 11: Advance Blockchain, Stable Coin, Ethereum 2.0, and DeFi Technologies
 
 [What Eth 2.0 Meant in 2014 and What It Means Today](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/eth2-0-staking-long-term-market-value)
 
@@ -336,6 +336,8 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 [Convergence of Blockchain, IoT, and AI](https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full)
 
 [How blockchain adds trust to AI and IoT](https://www.ibm.com/blogs/blockchain/2020/08/how-blockchain-adds-trust-to-ai-and-iot/)
+
+[How to DeFi](https://www.amazon.com/How-DeFi-CoinGecko-ebook/dp/B0868N5GJ8/ref=sr_1_1)
 
 ## Part 11: Quantum Computing with Amazon Braket
 

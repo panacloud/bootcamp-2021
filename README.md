@@ -1,4 +1,4 @@
-# Bootcamp 2021: Learn to Build AI and AIoT Serverless Multi-Tenant SaaS APIs in Baby Step
+# Bootcamp 2021: Learn to Build Multi-Tenant SaaS APIs and Fuse Serverless with AI, IoT and Blockchain Technologies in Baby Step
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front.
 
@@ -7,6 +7,10 @@ Covid-19 propelled businesses into the future, ready or not. “Covid has acted 
 [The post-pandemic future of work - according to 3,000 CEOs from around the world](https://www.weforum.org/agenda/2021/02/the-post-pandemic-future-of-work-according-to-3-000-ceos-from-around-the-world-685436524a/)
 
 ![Three Technologies](three_tech.png)
+
+[The interplay between emerging and mature technologies: AI, blockchain and the cloud](https://www.information-age.com/ai-blockchain-cloud-123482306/)
+
+![Three Technologies](cloud_ai_blockchain.png)
 
 
 ### Graph-Based AI is the Future
@@ -18,7 +22,7 @@ Covid-19 propelled businesses into the future, ready or not. “Covid has acted 
 
 ### Bootcamp 2021 Coverage
 
-Panacloud Bootcamp 2021 will fuse AI, IoT, and AWS Serverless Cloud Technologies. The Bootcamp will use Python, TypeScript and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS Graph Database Neptune and AWS Cloud Development Kit (CDK) with TypeScript for Infrastructure as Code.
+Panacloud Bootcamp 2021 will fuse AI, IoT, Blockchain, and AWS Serverless Cloud Technologies. The Bootcamp will use Python, TypeScript and Rust as its development languages, TensorFlow as ML framework, AWS as its Serverless Cloud platform, AWS Graph Database Neptune, Ethereum as Blockchain platform and AWS Cloud Development Kit (CDK) with TypeScript for Infrastructure as Code.
 
 ### Those interested in web and mobile Serverless SaaS apps and APIs should also focus on [Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
 
@@ -27,10 +31,10 @@ Difference Between Bootcamp 2020 and Bootcamp 2021
 The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
 https://panacloud.github.io/bootcamp-2020/
 
-The objective of Bootcamp 2021 to to train developers to develop cloud based AI and IoT powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
+The objective of Bootcamp 2021 to to train developers to develop cloud based AI, IoT, and Blockchain powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
 https://panacloud.github.io/bootcamp-2021/
 
-The recording of Bootcamp 2021 will start after the recording of Bootcamp 2020 is complete. After the recording in Bootcamp 2020 is complete, it does not mean that the Bootcamp is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
+The recording of Bootcamp 2020 is now complete and in a few months recording of Bootcamp 2021 will start. When we say recording of Bootcamp 2020 is complete, it does not mean that the Bootcamp 2020 is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
 
 [Cloud’s trillion-dollar prize is up for grabs](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/clouds-trillion-dollar-prize-is-up-for-grabs)
 
@@ -311,6 +315,23 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 
 [We will try to move to Pico if Rust becomes fully functional on it](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 
+## Part 11: Advance Blockchain, Stable Coin and Ethereum 2.0 Technologies
+
+[What Eth 2.0 Meant in 2014 and What It Means Today](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/eth2-0-staking-long-term-market-value)
+
+[Ethereum 2.0: What it is, why it is here, and what is on the horizon](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/eth2-0-staking-long-term-market-value)
+
+[Breaking Down ETH 2.0 - eWASM and EVM Explained](https://academy.ivanontech.com/blog/breaking-down-eth-2-0-ewasm-and-evm-explained)
+
+[Running Ethereum smart contracts in a Substrate blockchain](https://medium.com/ethereum-on-steroids/running-ethereum-smart-contracts-in-a-substrate-blockchain-56fbc27fc95a)
+
+[Is Solidity being replaced as the de facto standard for smart contract development?](https://ethereum.stackexchange.com/questions/84984/is-solidity-being-replaced-as-the-de-facto-standard-for-smart-contract-developme)
+
+[Diem Project](https://www.diem.com/en-us/)
+
+[Convergence of Blockchain, IoT, and AI](https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full)
+
+[How blockchain adds trust to AI and IoT](https://www.ibm.com/blogs/blockchain/2020/08/how-blockchain-adds-trust-to-ai-and-iot/)
 
 
 

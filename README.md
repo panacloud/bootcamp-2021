@@ -82,6 +82,7 @@ Questions a Modern Application and API Developer must be able to answer:
 31. What is Ethereum 2.0?
 32. What is Ewasm?
 33. What is Diem?
+34. What is Quantum Computing?
 
 
 ### Operation Unicorn Startups

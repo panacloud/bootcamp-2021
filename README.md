@@ -1,16 +1,19 @@
-# Bootcamp 2021: Learn to Build Multi-Tenant SaaS APIs and Fuse Serverless, AI, IoT and Blockchain Technologies in Baby Step
+# Bootcamp 2021: Learn to Build Multi-Tenant SaaS APIs and Fuse Serverless, AI, IoT, Blockchain, and Quantum Technologies in Baby Step
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front.
 
-### The Technologies which CEOs expect to Deliver Results for them over the Next Few Years
+### The interplay between emerging and mature technologies: AI, blockchain and the cloud
+
+[The interplay between emerging and mature technologies: AI, blockchain and the cloud](https://www.information-age.com/ai-blockchain-cloud-123482306/)
+
+![Interplay](cloud_ai_blockchain.png)
+
+### The Technologies expected to Deliver Results over the Next Few Years
 
 [The post-pandemic future of work - according to 3,000 CEOs from around the world](https://www.weforum.org/agenda/2021/02/the-post-pandemic-future-of-work-according-to-3-000-ceos-from-around-the-world-685436524a/)
 
 ![Three Technologies](three_tech.png)
 
-[The interplay between emerging and mature technologies: AI, blockchain and the cloud](https://www.information-age.com/ai-blockchain-cloud-123482306/)
-
-![Three Technologies](cloud_ai_blockchain.png)
 
 
 ### Graph-Based AI is the Future
@@ -31,7 +34,7 @@ Difference Between Bootcamp 2020 and Bootcamp 2021
 The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
 https://panacloud.github.io/bootcamp-2020/
 
-The objective of Bootcamp 2021 to to train developers to develop cloud based AI, IoT, and Blockchain powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
+The objective of Bootcamp 2021 to to train developers to develop cloud based AI, IoT, Blockchain, and Quantum powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
 https://panacloud.github.io/bootcamp-2021/
 
 The recording of Bootcamp 2020 is now complete and in a few months recording of Bootcamp 2021 will start. When we say recording of Bootcamp 2020 is complete, it does not mean that the Bootcamp 2020 is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
@@ -332,6 +335,14 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 [Convergence of Blockchain, IoT, and AI](https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full)
 
 [How blockchain adds trust to AI and IoT](https://www.ibm.com/blogs/blockchain/2020/08/how-blockchain-adds-trust-to-ai-and-iot/)
+
+## Part 11: Quantum Computing with Amazon Braket
+
+[Amazon Braket](https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/)
+
+[Amazon Braket – Go Hands-On with Quantum Computing](https://aws.amazon.com/blogs/aws/amazon-braket-go-hands-on-with-quantum-computing/)
+
+[AWS Braket Quantum Computing: How To Get Started](https://www.bmc.com/blogs/aws-braket-quantum-computing/)
 
 
 

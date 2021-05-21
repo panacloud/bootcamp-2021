@@ -121,7 +121,7 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 ### Learn TypeScript
 
-[Essential TypeScript 4: From Beginner to Pro
+Essential TypeScript 4: From Beginner to Pro
 
 https://pdf.zlibcdn.com/dtoken/5b7e0a1153808ff3b18a87aad970d6ba/Essential_TypeScript_4_From_Beginner_to_Pro_by_Ad_11988620_(z-lib.org).pdf
 

@@ -117,7 +117,15 @@ Every Sunday 9:30 pm to 11:30 pm Pakistan Standard Time, First class on Sunday, 
 
 Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Faheem, Mateen, Daniyal Nogori, and [Zia Khan](https://github.com/ziaukhan).
 
-## Prerequisites: Python, Rust and TypeScript
+## Prerequisites: TypeScript, Python, and Rust
+
+### Learn TypeScript
+
+[Essential TypeScript 4: From Beginner to Pro
+
+https://pdf.zlibcdn.com/dtoken/5b7e0a1153808ff3b18a87aad970d6ba/Essential_TypeScript_4_From_Beginner_to_Pro_by_Ad_11988620_(z-lib.org).pdf
+
+[Learn from our Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
 ### Learn Python
 
@@ -141,13 +149,7 @@ Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Fah
 
 [Learn Rust - Tutorials, Courses, and Books](https://gitconnected.com/learn/rust)
 
-### Learn TypeScript
 
-[The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-
-[Programming TypeScript](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/ref=sr_1_1)
-
-[Learn from our Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
 ## Must Have: Create Free AWS Account
 

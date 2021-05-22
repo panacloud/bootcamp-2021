@@ -100,17 +100,21 @@ Bootcamp 2021 is preparing developers for Operation Unicorn Startups. More detai
 
 ### English Section:
 
-Every Saturday at 9:30 PM – 11:30 PM Pakistan Standard Time, First class on Saturday, May 22, 2021
+Every Saturday at 9:30 PM – 11:30 PM Pakistan Standard Time, First class on Saturday, May 29, 2021
 
 [English broadcast live on Facebook](https://www.facebook.com/groups/deep.learning.edu)
+
+[English broadcast live on YouTube](https://www.youtube.com/channel/UCAkEozwVHwwUOf_p_oCOaqw)
 
 
 
 ### Urdu Section:
 
-Every Sunday 9:30 pm to 11:30 pm Pakistan Standard Time, First class on Sunday, May 23, 2021
+Every Sunday 9:30 pm to 11:30 pm Pakistan Standard Time, First class on Sunday, May 29, 2021
 
 [Urdu broadcast live on Facebook](https://www.facebook.com/groups/deep.learning.edu)
+
+[Urdu broadcast live on YouTube](https://www.youtube.com/channel/UC3R9WHWHPPpy9B9ijA9pu3w)
 
 
 ### Teaching Team:

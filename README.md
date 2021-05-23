@@ -1,4 +1,6 @@
-# Bootcamp 2021: Fusing Serverless, AI, IoT, Blockchain, and Quantum Technologies
+# Bootcamp 2021: Getting Developers Ready for the API Economy
+
+## Fusing Serverless, AI, IoT, Blockchain, and Quantum Technologies
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front.
 
@@ -165,11 +167,41 @@ https://pdf.zlibcdn.com/dtoken/5b7e0a1153808ff3b18a87aad970d6ba/Essential_TypeSc
 
 Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
 
-## Part 1: Fast Track Review of Python and Typescript
+## Part 1: The API Economy Theory
+
+### Class 1: Understanding the API Economy
+
+[API economy](https://searchapparchitecture.techtarget.com/definition/API-economy)
+
+[How the API economy is powering digital transformation](https://venturebeat.com/2021/05/17/how-the-api-economy-is-powering-digital-transformation/)
+
+[API Economy: Is It The Next Big Thing?](https://www.forbes.com/sites/tomtaulli/2020/01/18/api-economy--is-it-the-next-big-thing/)
+
+[What Is The “API Economy” And How Brands Can Benefit From It](https://medium.com/ipg-media-lab/what-is-the-api-economy-and-how-brands-can-benefit-from-it-b46210d0434d)
+
+[Welcome to the API Economy](https://www.gartner.com/smarterwithgartner/welcome-to-the-api-economy/)
+
+[The State of the API Economy 2021](https://pages.apigee.com/rs/351-WXY-166/images/Apigee_StateOfAPIS_eBook_2020.pdf)
+
+[API Strategy Essentials](https://www.mulesoft.com/lp/whitepaper/api/api-strategy-essentials)
+
+[5 Ways AI, IoT, and security are shaping the API economy](https://www.mulesoft.com/lp/ebook/api/artificial-intelligence-chatbot)
+
+[The platform economy is an API economy. And artificial intelligence needs APIs](https://blogs.sas.com/content/hiddeninsights/2017/05/23/api-economy-and-artifical-intelligence/)
+
+[The Pivotal Role of Business APIs in IoT Platforms: Part I](https://www.iotforall.com/business-api-iot-platforms)
+
+[How important is the API economy to blockchain application development?](https://www.hebergementwebs.com/blockchain/how-important-is-the-api-economy-to-blockchain-application-development)
+
+[APIs and Blockchain — a trillion-dollar opportunity](https://medium.com/monsterplay/apis-and-blockchain-a-trillion-dollar-opportunity-84ed839b313a)
 
 
 
-## Part 2: Introduction to Serverless using CDK
+## Part 2: Fast Track Review of TypeScript and Python
+
+
+
+## Part 3: Introduction to Serverless using CDK
 
 We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. in Python, TypeScript and Rust
 
@@ -181,7 +213,7 @@ We will focus on Serverless SaaS API development using CDK and AWS Lambda, AWS A
 
 Also please note that we will write the application code in Python and infrasturcture code will be in Typescript.
 
-## Part 3: Learning AWS Graph Database Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
+## Part 4: Learning AWS Graph Database Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
 
 ### Introduction to Graph Theory
 
@@ -271,15 +303,15 @@ Also please note that we will write the application code in Python and infrastur
 [Amazon Neptune ML](https://aws.amazon.com/neptune/machine-learning/)
 
 
-## Part 4: AI as a Service
+## Part 5: AI as a Service
 
 [AI as a Service: Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
 
 
 
-## Part 5: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
+## Part 6: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
 
-## Part 6: Advanced Tensorflow
+## Part 7: Advanced Tensorflow
 
 [We may choose from the following books](https://www.guru99.com/best-tensorflow-books.html)
 
@@ -289,7 +321,7 @@ Right now these two books are the best sellers:
 
 [Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow ](https://www.amazon.com/Practical-Learning-Cloud-Mobile-Hands/dp/149203486X/ref=sr_1_9)
 
-## Part 7: AIoT and Edge Computing 
+## Part 8: AIoT and Edge Computing 
 
 [Getting started with AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-gs.html)
 
@@ -301,7 +333,7 @@ We will be using the Greengrass Tutorial and inhancing all the examples and code
 
 It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi 3 Model B/B+, with a 8 GB microSD card, or will have to use an Amazon EC2 instance as a virtual edge device.
 
-## Part 8: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
+## Part 9: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
 
 [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X)
 
@@ -309,11 +341,11 @@ It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi
 
 We will be using the Learn Amazon SageMaker Textbook and inhancing all the examples and code using CDK.
 
-## Part 9: Voice Computing
+## Part 10: Voice Computing
 
 {Add Voice To Your Serverless Apps with Alexa Through AWS CDK](https://dev.to/cdkpatterns/add-voice-to-your-serverless-apps-with-alexa-through-aws-cdk-45n0)
 
-## Part 10: Embedded Real-Time Computing
+## Part 11: Embedded Real-Time Computing
 
 [FreeRTOS](https://aws.amazon.com/freertos/)
 
@@ -331,7 +363,7 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 
 [We will try to move to Pico if Rust becomes fully functional on it](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 
-## Part 11: Advance Blockchain, Stable Coin, Ethereum 2.0, and DeFi Technologies
+## Part 12: Advance Blockchain, Stable Coin, Ethereum 2.0, and DeFi Technologies
 
 [What Eth 2.0 Meant in 2014 and What It Means Today](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/eth2-0-staking-long-term-market-value)
 
@@ -351,7 +383,7 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 
 [How to DeFi](https://www.amazon.com/How-DeFi-CoinGecko-ebook/dp/B0868N5GJ8/ref=sr_1_1)
 
-## Part 11: Quantum Computing with Amazon Braket
+## Part 13: Quantum Computing with Amazon Braket
 
 [Amazon Braket](https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/)
 

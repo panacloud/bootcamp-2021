@@ -125,7 +125,7 @@ Every Sunday 9:30 pm to 11:30 pm Pakistan Standard Time, First class on Sunday, 
 
 ### Teaching Team:
 
-Inam ul Haq, Qasim, Anees, Faheem, and Zia Khan.
+Inam ul Haq, Qasim, Anees, Faheem, Shahrukh, and Zia Khan.
 
 ## Prerequisites: TypeScript, Python, and Rust
 

@@ -61,7 +61,7 @@ Questions a Modern Application and API Developer must be able to answer:
 2. What is Serverless?
 3. What is SaaS and Serverless SaaS?
 4. What is Event-Driven Architecture?
-5. What are APIs?
+5. What are APIs and what is the API Economy?
 6. What are RESTful OpenAPIs?
 7. What are GraphQL APIs?
 8. What is IaC and Cloud Development Kit (CDK)?
@@ -125,7 +125,7 @@ Every Sunday 9:30 pm to 11:30 pm Pakistan Standard Time, First class on Sunday, 
 
 ### Teaching Team:
 
-Inam ul Haq, Imran, Anees, [Zeeshan Hanif](https://github.com/zeeshanhanif), Faheem, Mateen, Daniyal Nogori, and [Zia Khan](https://github.com/ziaukhan).
+Inam ul Haq, Qasim, Anees, Faheem, and Zia Khan.
 
 ## Prerequisites: TypeScript, Python, and Rust
 

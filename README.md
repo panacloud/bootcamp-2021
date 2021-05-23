@@ -183,6 +183,12 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 
 [The State of the API Economy 2021](https://pages.apigee.com/rs/351-WXY-166/images/Apigee_StateOfAPIS_eBook_2020.pdf)
 
+[Serverless Computing](https://www2.deloitte.com/content/dam/Deloitte/tr/Documents/technology-media-telecommunications/Serverless%20Computing.pdf)
+
+[Reshaping the business landscape with serverless APIs](https://azure.microsoft.com/en-us/blog/reshaping-the-business-landscape-with-serverless-apis/)
+
+[Serverless, Microservices & Other Trends in API and Services Architecture](https://www.moesif.com/blog/api-guide/the-next-api-platform-serverless-and-blockchain/)
+
 [API Strategy Essentials](https://www.mulesoft.com/lp/whitepaper/api/api-strategy-essentials)
 
 [5 Ways AI, IoT, and security are shaping the API economy](https://www.mulesoft.com/lp/ebook/api/artificial-intelligence-chatbot)
@@ -194,6 +200,8 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 [How important is the API economy to blockchain application development?](https://www.hebergementwebs.com/blockchain/how-important-is-the-api-economy-to-blockchain-application-development)
 
 [APIs and Blockchain — a trillion-dollar opportunity](https://medium.com/monsterplay/apis-and-blockchain-a-trillion-dollar-opportunity-84ed839b313a)
+
+[Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
 
 
 

@@ -185,6 +185,10 @@ The API Economy levels the playing field for everyone from the smallest develope
 
 Panacloud has started and is leading a social movement called Operation Unicorn to help anyone and everyone become a cloud developer, a startup founder, and participant in the API economy. The focus is on building API-First startups, which will in time become billion dollar companies. This movement is striving to build a community that will not only transform individuals, but societies and countries as well.
 
+[API Economy Presentation for Class](https://docs.google.com/presentation/d/1rjiNSoQV87mgZNCCA5xf__B-OOTTuK7CCriwpesDR90/edit?usp=sharing)
+
+Support Reading Material:
+
 [API economy](https://searchapparchitecture.techtarget.com/definition/API-economy)
 
 [What is the API Economy & why it matters to your business](https://www.torocloud.com/blog/what-is-the-API-economy-and-why-it-matters-to-your-business)

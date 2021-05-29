@@ -1,6 +1,6 @@
 # Bootcamp 2021: Getting Developers Ready for the API Economy
 
-## Fusing Serverless, AI, IoT, Blockchain, and Quantum Technologies
+## Fusing Serverless, Graph, AI, IoT, Blockchain, and Quantum Technologies
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front.
 

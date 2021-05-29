@@ -245,6 +245,8 @@ Also please note that we will write the application code in Python and infrastur
 
 ## Part 4: Learning AWS Graph Database Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
 
+[Graphs as a foundational technology stack: Analytics, AI, and hardware](https://venturebeat.com/2021/05/28/graphs-as-a-foundational-technology-stack-analytics-ai-and-hardware/)
+
 ### Introduction to Graph Theory
 
 [Introduction to Graph Theory](https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709/ref=sr_1_1)

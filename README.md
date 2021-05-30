@@ -101,7 +101,7 @@ Bootcamp 2021 is preparing developers for Operation Unicorn Startups. More detai
 
 ### Introduction to English and Urdu Sections
 
-[Join Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)
+[Join Panacloud Bootcamp 2021 Discord Discussion Server Now](https://discord.gg/gEBtdDzHaN)
 
 
 ### English Section:

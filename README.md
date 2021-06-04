@@ -131,9 +131,7 @@ Inam ul Haq, Qasim, Anees, Faheem, Shahrukh, and Zia Khan.
 
 ### Learn TypeScript
 
-Essential TypeScript 4: From Beginner to Pro
-
-https://pdf.zlibcdn.com/dtoken/5b7e0a1153808ff3b18a87aad970d6ba/Essential_TypeScript_4_From_Beginner_to_Pro_by_Ad_11988620_(z-lib.org).pdf
+[Essential TypeScript 4: From Beginner to Pro](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
 
 [Learn from our Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
@@ -229,6 +227,9 @@ Support Reading Material:
 
 ## Part 2: Fast Track Review of TypeScript and Python
 
+
+
+[Essential TypeScript 4: From Beginner to Pro](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
 
 
 ## Part 3: Introduction to Serverless using CDK

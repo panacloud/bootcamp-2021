@@ -241,9 +241,13 @@ Class 1: The API Economy
 [Book Source Code](https://github.com/Apress/essential-typescript-4)
 
 
-## Part 3: Introduction to Serverless using CDK
+## Part 3: Introduction to Serverless using CDK v2
 
 We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. in Python, TypeScript and Rust
+
+[Working with CDK V2](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-v2.html)
+
+[Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 
 Learning Material:
 

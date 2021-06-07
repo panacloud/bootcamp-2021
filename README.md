@@ -249,6 +249,10 @@ We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in
 
 [Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
 
+A new version of the CDK Toolkit is required for use with CDK v2. To install it, issue 
+
+npm install -g aws-cdk@next
+
 Learning Material:
 
 [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)

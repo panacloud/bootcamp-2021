@@ -223,13 +223,20 @@ Support Reading Material:
 
 [Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
 
+Class 1: The API Economy
+
+[Class 1: The API Economy in Urdu FB Video Links (Liva via ZOOM)](https://web.facebook.com/Ai.SirQasim/videos/2251560891645355/)
+
+[Class 1: The API Economy in Urdu YouTube Video Links (streamed via streamyard)](https://youtu.be/cd2wdqGZp1A)
+
+[Class 1: The API Economy in Urdu YouTube Video Links (uploaded from ZOOM recording)](https://youtu.be/iMjkC77mhvg)
 
 
-## Part 2: Fast Track Review of TypeScript and Python
 
 
+## Part 2: Fast Track Review of TypeScript
 
-[Essential TypeScript 4: From Beginner to Pro](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
+[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
 
 
 ## Part 3: Introduction to Serverless using CDK

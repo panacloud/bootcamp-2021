@@ -238,6 +238,8 @@ Class 1: The API Economy
 
 [Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
 
+[Book Source Code](https://github.com/Apress/essential-typescript-4)
+
 
 ## Part 3: Introduction to Serverless using CDK
 

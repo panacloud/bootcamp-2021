@@ -415,6 +415,12 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 
 ## Part 12: Advance Blockchain, Stable Coin, Ethereum 2.0, and DeFi Technologies
 
+[DAI Explained: Is it safe to use?](https://www.youtube.com/watch?v=dIUCRn01ecE)
+
+[Maker for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90)
+
+[How to Get DAI Stablecoin](https://medium.com/adex-network-tips-and-tricks/how-to-get-dai-stablecoin-1660e8d76faa)
+
 [What Eth 2.0 Meant in 2014 and What It Means Today](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/eth2-0-staking-long-term-market-value)
 
 [Ethereum 2.0: What it is, why it is here, and what is on the horizon](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/eth2-0-staking-long-term-market-value)

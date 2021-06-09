@@ -15,6 +15,10 @@ cd tep00_helloworld
 //in empty directory
 cdk init app --language typescript
 
+delete all context setting in cdk.json they are not valid of v2
+
+
+
 npm run build
 
 cdk bootstrap

@@ -131,9 +131,7 @@ Inam ul Haq, Qasim, Anees, Faheem, Shahrukh, and Zia Khan.
 
 ### Learn TypeScript
 
-Essential TypeScript 4: From Beginner to Pro
-
-https://pdf.zlibcdn.com/dtoken/5b7e0a1153808ff3b18a87aad970d6ba/Essential_TypeScript_4_From_Beginner_to_Pro_by_Ad_11988620_(z-lib.org).pdf
+[Essential TypeScript 4: From Beginner to Pro](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
 
 [Learn from our Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
@@ -225,15 +223,35 @@ Support Reading Material:
 
 [Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
 
+Class 1: The API Economy
+
+[Class 1: The API Economy in Urdu FB Video Links (Liva via ZOOM)](https://web.facebook.com/Ai.SirQasim/videos/2251560891645355/)
+
+[Class 1: The API Economy in Urdu YouTube Video Links (streamed via streamyard)](https://youtu.be/cd2wdqGZp1A)
+
+[Class 1: The API Economy in Urdu YouTube Video Links (uploaded from ZOOM recording)](https://youtu.be/iMjkC77mhvg)
 
 
-## Part 2: Fast Track Review of TypeScript and Python
 
 
+## Part 2: Fast Track Review of TypeScript
 
-## Part 3: Introduction to Serverless using CDK
+[Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
+
+[Book Source Code](https://github.com/Apress/essential-typescript-4)
+
+
+## Part 3: Introduction to Serverless using CDK v2
 
 We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. in Python, TypeScript and Rust
+
+[Working with CDK V2](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-v2.html)
+
+[Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
+
+A new version of the CDK Toolkit is required for use with CDK v2. To install it, issue 
+
+npm install -g aws-cdk@next
 
 Learning Material:
 
@@ -396,6 +414,12 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 [We will try to move to Pico if Rust becomes fully functional on it](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 
 ## Part 12: Advance Blockchain, Stable Coin, Ethereum 2.0, and DeFi Technologies
+
+[DAI Explained: Is it safe to use?](https://www.youtube.com/watch?v=dIUCRn01ecE)
+
+[Maker for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90)
+
+[How to Get DAI Stablecoin](https://medium.com/adex-network-tips-and-tricks/how-to-get-dai-stablecoin-1660e8d76faa)
 
 [What Eth 2.0 Meant in 2014 and What It Means Today](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/eth2-0-staking-long-term-market-value)
 

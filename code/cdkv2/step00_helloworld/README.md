@@ -1,9 +1,16 @@
-//https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-v2.html
+https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-v2.html
 
-//https://docs.aws.amazon.com/cdk/latest/guide/hello_world.html
+https://docs.aws.amazon.com/cdk/latest/guide/hello_world.html
 
-//If facing this bug
+If facing this bug
 //https://www.gitmemory.com/issue/aws/aws-cdk/14738/844554973
+
+
+install: npm install -g aws-cdk@next
+
+mkdir step00_helloworld
+
+cd tep00_helloworld
 
 //in empty directory
 cdk init app --language typescript
@@ -11,6 +18,10 @@ cdk init app --language typescript
 npm run build
 
 cdk bootstrap
+
+cdk deploy
+
+cdk distory
 
 
 

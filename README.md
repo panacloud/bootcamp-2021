@@ -106,21 +106,56 @@ Bootcamp 2021 is preparing developers for Operation Unicorn Startups. More detai
 
 ### English Section:
 
-Every Saturday at 9:30 PM – 11:30 PM Pakistan Standard Time, First class on Saturday, June 5, 2021
+Every Saturday at 9:30 PM – 11:30 PM Pakistan Standard Time, First class on Saturday, June 12, 2021
+
+You can participate in class by Joining Zoom Meeting, watch live on Facebook, or watch recording on YouTube.
+
+Bootcamp 2021 (English) : Getting Developers Ready for the API Economy - Every Saturday 09:30 PM
+
+Join Zoom Meeting
+
+https://zoom.us/j/96221232702?pwd=ZmhxNUpXZ3dLdDc0anFYS2RTU09Qdz09
+
+ZOOM Meeting ID: 962 2123 2702
+
+ZOOM Passcode: 123456
+
+It will be also live the following facebook group:
+
+https://www.facebook.com/groups/deep.learning.edu
 
 [English broadcast live on Facebook](https://www.facebook.com/groups/deep.learning.edu)
 
-[English broadcast live on YouTube](https://www.youtube.com/channel/UCAkEozwVHwwUOf_p_oCOaqw)
+You can also see the recording on:
+
+[English broadcast Recording on YouTube](https://www.youtube.com/channel/UCAkEozwVHwwUOf_p_oCOaqw)
 
 
 
 ### Urdu Section:
 
-Every Sunday 9:30 pm to 11:30 pm Pakistan Standard Time, First class on Sunday, June 6, 2021
+Every Sunday 9:30 pm to 11:30 pm Pakistan Standard Time, First class on Sunday, June 12, 2021
+
+You can participate in class by Joining Zoom Meeting, watch live on Facebook, or watch recording on YouTube.
+
+Bootcamp 2021 (Urdu) : Getting Developers Ready for the API Economy - Every Sunday 09:30 PM
+
+Join Zoom Meeting
+
+https://zoom.us/j/93398753815?pwd=MzRVUUhQbzRiWHJ5UFpGY1BIeldzUT09 
+
+
+ZOOM Meeting ID: 933 9875 3815
+
+ZOOM Passcode: 123456
+
+It will be also live the following facebook group:
 
 [Urdu broadcast live on Facebook](https://www.facebook.com/groups/deep.learning.edu)
 
-[Urdu broadcast live on YouTube](https://www.youtube.com/channel/UC3R9WHWHPPpy9B9ijA9pu3w)
+You can also see the recording on:
+
+[Urdu broadcast Recording on YouTube](https://www.youtube.com/channel/UC3R9WHWHPPpy9B9ijA9pu3w)
 
 
 ### Teaching Team:

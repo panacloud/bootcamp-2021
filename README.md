@@ -269,6 +269,29 @@ Class 1 Videos: The API Economy
 [Class 1: What is the API Economy in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2257587044376073)
 
 
+### Class 2: Stable Coin for the API Economy: DAI
+
+Think of a stablecoin as our traditional banking system integrated with blockchain. Stablecoins were invented to bring in the benefits of cryptocurrency along with price stability. Cross border payments are made easier while also maintaining liquidity, security, and transparency; traders maintain freedom and privacy in financial transactions using stablecoins.
+
+What is Blockchain
+
+What is Ethereum
+
+What are ERC20 Tokens
+
+[The Importance of Stablecoins and Their Future](https://zipmex.com/learn/the-importance-of-stablecoins-and-their-future/)
+
+[Top Use Cases and Benefits of Stablecoins](https://medium.com/stably-blog/top-use-cases-and-benefits-of-stablecoins-4f1ceab57d00)
+
+[What is DAI, and how does it work?](https://medium.com/mycrypto/what-is-dai-and-how-does-it-work-742d09ba25d6)
+
+[How To Use DAI Stablecoin: Beginner's Guide (2021)](https://decrypt.co/resources/dai-explained-guide-ethereum-stablecoin)
+
+How to Send and Receive Ethereum and Dai on Testnets
+
+
+
+
 ## Part 2: Fast Track Review of TypeScript
 
 [Essential TypeScript 4: From Beginner to Pro: Chapter 1](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)

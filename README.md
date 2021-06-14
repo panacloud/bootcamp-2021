@@ -294,7 +294,7 @@ Dai Lab:
 https://metamask.io/
 
 2. Read
-3. 
+
 https://medium.com/compound-finance/the-beginners-guide-to-using-an-ethereum-test-network-95bbbc85fc1d
 
 https://ethereum.org/en/developers/docs/networks/

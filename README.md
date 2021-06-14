@@ -287,7 +287,39 @@ What are ERC20 Tokens
 
 [How To Use DAI Stablecoin: Beginner's Guide (2021)](https://decrypt.co/resources/dai-explained-guide-ethereum-stablecoin)
 
-How to Send and Receive Ethereum and Dai on Testnets
+Dai Lab:
+
+1. Install Metamask (Ethereum Wallet)
+
+https://metamask.io/
+
+2. Read
+3. 
+https://medium.com/compound-finance/the-beginners-guide-to-using-an-ethereum-test-network-95bbbc85fc1d
+
+https://ethereum.org/en/developers/docs/networks/
+
+3. Select Test network for development in Metamask, we will be using Ropsten
+
+4. Generate Ethereum on a Facet and send it to your Metamask account address:
+
+https://faucet.ropsten.be/
+
+or 
+
+https://faucet.dimensions.network/
+
+5. Generate Dai from a Dai Faucet and send it to your Metamask Account Address:
+
+https://app.compound.finance/
+
+6. To show received Dai in Matamask push Add Token button using the following DAI contract address: 
+
+0xad6d458402f60fd3bd25163575031acdce07538d
+
+7. Send some Dai to my address:
+
+0xA31Fa5D96441645FCeD6F09743cA5703605817Ca
 
 
 

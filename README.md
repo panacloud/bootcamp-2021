@@ -313,11 +313,15 @@ https://faucet.dimensions.network/
 
 https://app.compound.finance/
 
+Watch this video to learn:
+
+https://youtu.be/5GLh1_zAftk
+
 6. To show received Dai in Matamask push Add Token button using the following DAI contract address: 
 
 0xad6d458402f60fd3bd25163575031acdce07538d
 
-7. Send some Dai to my address:
+7. Send one Dai or more to my address:
 
 0xA31Fa5D96441645FCeD6F09743cA5703605817Ca
 

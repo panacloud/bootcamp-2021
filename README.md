@@ -220,17 +220,6 @@ Panacloud has started and is leading a social movement called Operation Unicorn 
 
 [API Economy Presentation for Class](https://docs.google.com/presentation/d/1rjiNSoQV87mgZNCCA5xf__B-OOTTuK7CCriwpesDR90/edit?usp=sharing)
 
-[Class 1: What is the API Economy in English on YouTube](https://youtu.be/1ztdYFRyCyE)
-
-[Class 1: What is the API Economy in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159552963217376)
-
-[Class 1: What is the API Economy in Urdu on YouTube](https://youtu.be/V4z6KC3ENmM)
-
-[Class 1: What is the API Economy in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2257587044376073)
-
-
-
-
 Support Reading Material:
 
 [API economy](https://searchapparchitecture.techtarget.com/definition/API-economy)
@@ -269,15 +258,15 @@ Support Reading Material:
 
 [Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
 
-Class 1: The API Economy
+Class 1 Videos: The API Economy
 
-[Class 1: The API Economy in Urdu FB Video Links (Liva via ZOOM)](https://web.facebook.com/Ai.SirQasim/videos/2251560891645355/)
+[Class 1: What is the API Economy in English on YouTube](https://youtu.be/1ztdYFRyCyE)
 
-[Class 1: The API Economy in Urdu YouTube Video Links (streamed via streamyard)](https://youtu.be/cd2wdqGZp1A)
+[Class 1: What is the API Economy in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159552963217376)
 
-[Class 1: The API Economy in Urdu YouTube Video Links (uploaded from ZOOM recording)](https://youtu.be/iMjkC77mhvg)
+[Class 1: What is the API Economy in Urdu on YouTube](https://youtu.be/V4z6KC3ENmM)
 
-
+[Class 1: What is the API Economy in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2257587044376073)
 
 
 ## Part 2: Fast Track Review of TypeScript

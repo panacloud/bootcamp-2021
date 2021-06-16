@@ -269,62 +269,23 @@ Class 1 Videos: The API Economy
 [Class 1: What is the API Economy in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2257587044376073)
 
 
-### Class 2: Stable Coin for the API Economy: DAI
+### Class 2: Programmable Money for the API Economy: Stable Coin DAI
 
-Think of a stablecoin as our traditional banking system integrated with blockchain. Stablecoins were invented to bring in the benefits of cryptocurrency along with price stability. Cross border payments are made easier while also maintaining liquidity, security, and transparency; traders maintain freedom and privacy in financial transactions using stablecoins.
+[Presentation for Class 2](https://docs.google.com/presentation/d/1Tg6Y5aqqavTW5iQP6KfkXrUDSU0rTXvPQk3xNVmhEUo/edit?usp=sharing)
 
-What is Blockchain
+Reading Material:
 
-What is Ethereum
+[Charting the evolution of programmable money](https://www.ibm.com/thought-leadership/institute-business-value/report/programmoneyevo)
 
-What are ERC20 Tokens
+[What Actually is Programmable Money?](https://www.linkedin.com/pulse/what-actually-programmable-money-antony-lewis/)
 
-[The Importance of Stablecoins and Their Future](https://zipmex.com/learn/the-importance-of-stablecoins-and-their-future/)
-
-[Top Use Cases and Benefits of Stablecoins](https://medium.com/stably-blog/top-use-cases-and-benefits-of-stablecoins-4f1ceab57d00)
+[What Is MakerDAO’s DAI Stablecoin?](https://www.coinspeaker.com/guides/what-is-makerdaos-dai-stablecoin/)
 
 [What is DAI, and how does it work?](https://medium.com/mycrypto/what-is-dai-and-how-does-it-work-742d09ba25d6)
 
+[Top Use Cases and Benefits of Stablecoins](https://medium.com/stably-blog/top-use-cases-and-benefits-of-stablecoins-4f1ceab57d00)
+
 [How To Use DAI Stablecoin: Beginner's Guide (2021)](https://decrypt.co/resources/dai-explained-guide-ethereum-stablecoin)
-
-Dai Lab:
-
-1. Install Metamask (Ethereum Wallet)
-
-https://metamask.io/
-
-2. Read
-
-https://medium.com/compound-finance/the-beginners-guide-to-using-an-ethereum-test-network-95bbbc85fc1d
-
-https://ethereum.org/en/developers/docs/networks/
-
-3. Select Test network for development in Metamask, we will be using Ropsten
-
-4. Generate Ethereum on a Facet and send it to your Metamask account address:
-
-https://faucet.ropsten.be/
-
-or 
-
-https://faucet.dimensions.network/
-
-5. Generate Dai from a Dai Faucet and send it to your Metamask Account Address:
-
-https://app.compound.finance/
-
-Watch this video to learn:
-
-https://youtu.be/5GLh1_zAftk
-
-6. To show received Dai in Matamask push Add Token button using the following DAI contract address: 
-
-0xad6d458402f60fd3bd25163575031acdce07538d
-
-7. Send one Dai or more to my address:
-
-0xA31Fa5D96441645FCeD6F09743cA5703605817Ca
-
 
 
 

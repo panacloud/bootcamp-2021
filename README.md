@@ -166,7 +166,7 @@ Inam ul Haq, Qasim, Anees, Faheem, Shahrukh, and Zia Khan.
 
 ### Learn TypeScript
 
-[Essential TypeScript 4: From Beginner to Pro](https://smallpdf.com/shared#st=94a9a751-91d8-446a-a8e4-666f0bfd3c49&fn=Adam+Freeman+-+Essential+TypeScript+4_+From+Beginner+to+Pro.pdf&ct=1622794833554&tl=share-document&rf=link)
+[Essential TypeScript 4: From Beginner to Pro](https://www.dropbox.com/s/2j24mj3tl6wsy2m/Adam%20Freeman%20-%20Essential%20TypeScript%204_%20From%20Beginner%20to%20Pro.pdf?dl=0)
 
 [Learn from our Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 

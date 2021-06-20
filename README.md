@@ -128,7 +128,7 @@ https://www.facebook.com/groups/deep.learning.edu
 
 You can also see the recording on:
 
-[English broadcast Recording on YouTube](https://www.youtube.com/channel/UCAkEozwVHwwUOf_p_oCOaqw)
+[English broadcast Recording on YouTube](https://www.youtube.com/watch?v=1ztdYFRyCyE&list=PLCD4H0tiu6FXq4fP5PmMu3vdGKN2kmqzp)
 
 
 

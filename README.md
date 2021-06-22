@@ -287,6 +287,15 @@ Reading Material:
 
 [How To Use DAI Stablecoin: Beginner's Guide (2021)](https://decrypt.co/resources/dai-explained-guide-ethereum-stablecoin)
 
+Class 2 Videos: Programmable Money
+
+[Class 2: Programmable Money in English on YouTube](https://www.youtube.com/watch?v=-WQ2DHpeaFs)
+
+[Class 2: Programmable Money in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159569309457376)
+
+[Class 2: Programmable Money in Urdu on YouTube](https://youtu.be/CJNtss-KKxI)
+
+[Class 2: Programmable Money in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2263454747122636)
 
 
 ## Part 2: Fast Track Review of TypeScript

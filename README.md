@@ -321,6 +321,17 @@ Reading Material:
 
 [Token Economy Book](https://github.com/sherminvo/TokenEconomyBook)
 
+Class 3 Videos: Token Economy
+
+[Class 3: Token Economy in English on YouTube](https://www.youtube.com/watch?v=w7uvlzXTGBU&t=17s)
+
+[Class 3: Token Economy in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/4452119318173275)
+
+[Class 3: Token Economy in Urdu on YouTube](https://youtu.be/KxCkksNtiT0)
+
+[Class 3: Token Economy in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2269720149829429)
+
+
 
 ## Part 2: Fast Track Review of TypeScript
 

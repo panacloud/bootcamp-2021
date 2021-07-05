@@ -347,6 +347,17 @@ We are going to learning by coding, we will develop a [simple Todo App in TypeSc
 
 We will also cover the chapter 1 of the TypeScript Textbook
 
+Class 4 Videos: Basic Todo App in TypeScript
+
+[Class 4: Basic Todo App in TypeScript in English on YouTube](https://www.youtube.com/watch?v=cVW5chnSyRM)
+
+[Class 4: Basic Todo App in TypeScript in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/323990186055017)
+
+[Class 4: TBasic Todo App in TypeScript in Urdu on YouTube](https://www.youtube.com/watch?v=T0FGw7ksYFg)
+
+[Class 4: Basic Todo App in TypeScript in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/4174853202591898)
+
+
 
 
 

@@ -1,4 +1,4 @@
-# Bootcamp 2021: Getting Developers Ready for the API Economy
+# Bootcamp 2021: Getting Developers Ready for the API Token Economy
 
 ## Fusing Serverless, Graph, AI, IoT, Blockchain, and Quantum Technologies
 

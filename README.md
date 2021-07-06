@@ -357,6 +357,13 @@ Class 4 Videos: Basic Todo App in TypeScript
 
 [Class 4: Basic Todo App in TypeScript in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/4174853202591898)
 
+### Class 5: Building Advanced Todo App in Typescript
+
+We will also cover the rest of chapter 1 of the TypeScript Textbook
+
+### Class 6: Publishing Packages on NPM
+
+[Publishing Packages on NPM Code](https://github.com/panacloud/npm-publish)
 
 
 

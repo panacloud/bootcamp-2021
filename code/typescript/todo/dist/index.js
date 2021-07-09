@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const ItemCollection_1 = require("./ItemCollection");
+let icollection = new ItemCollection_1.ItemCollection();
+let icollection2 = new ItemCollection_1.ItemCollection();
+icollection.addTodo("first task");
+icollection.addTodo("eat mangos");
+icollection2.addTodo("second task");
+icollection2.addTodo("eat apple");
+icollection.taskDone(1);
+icollection.printAll();
+icollection2.taskDone(2);
+icollection2.printAll();

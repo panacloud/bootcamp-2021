@@ -370,6 +370,12 @@ We will also cover the rest of chapter 1 of the TypeScript Textbook
 
 ## Part 3: Introduction to Serverless using CDK v2
 
+[Promising trends in the serverless infrastructure market](https://betanews.com/2021/07/07/trends-serverless-infrastructure/)
+
+[Expert Advice on Moving to Serverless](https://dashbird.io/blog/expert-advice-moving-to-serverless/)
+
+[Going Serverless with 7 Core AWS Services](https://levelup.gitconnected.com/going-serverless-with-7-core-aws-services-fcbd063985cd)
+
 We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. in Python, TypeScript and Rust
 
 [Working with CDK V2](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-v2.html)

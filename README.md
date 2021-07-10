@@ -359,7 +359,13 @@ Class 4 Videos: Basic Todo App in TypeScript
 
 ### Class 5: Building Advanced Todo App in Typescript
 
-We will also cover the rest of chapter 1 of the TypeScript Textbook
+We will also cover the rest of chapter 1 of the TypeScript Textbook.
+
+### Project One: Todo Console and Persistant Data App in TypeScript
+
+Study the Chapter One of the Essential Typescript Text book and create a Todo App with a command line interface and persistant storage of data.
+
+[Follow these steps to Submit the Project](https://github.com/panacloud/bootcamp-2021-proj-sub)
 
 ### Class 6: Publishing Packages on NPM
 

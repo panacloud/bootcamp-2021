@@ -20,4 +20,6 @@ icollection.printAll();
 icollection2.taskDone(2);
 icollection2.printAll();
 
+icollection2.getTodoItems(true).forEach(item => item.printTask());
+
 let obj = {a:5, b:3 }

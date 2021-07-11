@@ -13,6 +13,8 @@ icollection2.addTodo("eat apple");
 
 icollection.taskDone(1);
 icollection.printAll();
+icollection.taskDone(2);
+icollection.printAll();
 
 
 icollection2.taskDone(2);

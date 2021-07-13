@@ -381,7 +381,7 @@ Study the Chapter One of the Essential Typescript Text book and create a Todo Ap
 
 ### Class 6: Publishing Packages on NPM
 
-[Publishing Packages on NPM Code](https://github.com/panacloud/npm-publish)
+[Publishing Packages on NPM Code](https://github.com/panacloud/bootcamp-2021/tree/main/code/npm-publish)
 
 
 

@@ -1,4 +1,4 @@
-Setup and new user Account:
+Setup a new user Account:
 
 https://www.npmjs.com/
 

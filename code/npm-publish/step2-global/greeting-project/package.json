@@ -1,0 +1,16 @@
+{
+  "name": "@panacloud/greeting-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/greet.js",
+  "bin": {
+    "greet": "./bin/index.js"
+  },
+  "preferGlobal": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.0.0"
+  }
+}

@@ -1,3 +1,8 @@
+Setup and new user Account:
+
+https://www.npmjs.com/
+
+
 # Step 1: Publish Scoped Public Local Packages
 
 https://docs.npmjs.com/creating-and-publishing-scoped-public-packages

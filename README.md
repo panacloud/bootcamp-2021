@@ -361,6 +361,18 @@ Class 4 Videos: Basic Todo App in TypeScript
 
 We will also cover the rest of chapter 1 of the TypeScript Textbook.
 
+Class 5 Videos: Advanced Todo App in TypeScript
+
+[Class 5: Advanced Todo App in TypeScript in English on YouTube](https://www.youtube.com/watch?v=MiVKneZvX4E)
+
+[Class 5: Advanced Todo App in TypeScript in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/784986218844000)
+
+[Class 5: Advanced Todo App in TypeScript in Urdu on YouTube](https://youtu.be/2dMFvFPaSCE)
+
+[Class 5: Advanced Todo App in TypeScript in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/503628894039606)
+
+
+
 ## Project One: Todo Console and Persistent Data App in TypeScript
 
 Study the Chapter One of the Essential Typescript Text book and create a Todo App with a command line interface and Persistent storage of data.
@@ -369,7 +381,7 @@ Study the Chapter One of the Essential Typescript Text book and create a Todo Ap
 
 ### Class 6: Publishing Packages on NPM
 
-[Publishing Packages on NPM Code](https://github.com/panacloud/npm-publish)
+[Publishing Packages on NPM Code](https://github.com/panacloud/bootcamp-2021/tree/main/code/npm-publish)
 
 
 
@@ -563,6 +575,8 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 [We will try to move to Pico if Rust becomes fully functional on it](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 
 ## Part 12: Advance Blockchain, Stable Coin, Ethereum 2.0, and DeFi Technologies
+
+[The token’s secret: the two-faced financial incentive of the token economy](https://link.springer.com/article/10.1007/s12525-020-00412-9)
 
 [DAI Explained: Is it safe to use?](https://www.youtube.com/watch?v=dIUCRn01ecE)
 

@@ -13,7 +13,7 @@ export class TaskCollection {
         let item: Task = new Task(this.nextId, task, false);
         this.nextId++;
         this.tasks.push(item);
-        this.itemMap.set(this.nextId, new Task(this.nextId, task));
+        this.itemMap.set(this.nextId, item);//new Task(this.nextId, task));
     
     
     }

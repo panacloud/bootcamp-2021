@@ -2,23 +2,24 @@ import { Task } from "./Task";
 import { TaskCollection } from "./TaskCollection";
 
 
+
 let icollection: TaskCollection = new TaskCollection();
 let icollection2: TaskCollection = new TaskCollection();
 
-icollection.addTodo("first task");
+icollection.addTodo("Buy mangos");
 icollection.addTodo("eat mangos");
 
-icollection2.addTodo("second task");
+icollection2.addTodo("Buy apples");
 icollection2.addTodo("eat apple");
 
 icollection.taskDone(1);
-icollection.printAll();
+//icollection.printAll();
 icollection.taskDone(2);
-icollection.printAll();
+//icollection.printAll();
 
 
 icollection2.taskDone(2);
-icollection2.printAll();
+icollection2.printAll(), icollection.printAll();
 
 icollection2.getTodoItems(true).forEach(item => item.printTask());
 

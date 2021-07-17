@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "task": "Go for run",
+      "done": false
+    },
+    {
+      "taskId": 1,
+      "task": "first task",
+      "done": true
+    },
+    {
+      "taskId": 2,
+      "task": "eat mangos",
+      "done": false
+    }
+  ]
+}

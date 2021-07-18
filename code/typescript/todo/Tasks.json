@@ -1,8 +1,8 @@
 {
   "tasks": [
     {
-      "task": "Go for run",
-      "done": false
+      "task": "eat mangos",
+      "done": true
     },
     {
       "taskId": 1,
@@ -12,7 +12,12 @@
     {
       "taskId": 2,
       "task": "eat mangos",
-      "done": false
+      "done": true
+    },
+    {
+      "taskId": 3,
+      "task": "Go for a run",
+      "done": true
     }
   ]
 }

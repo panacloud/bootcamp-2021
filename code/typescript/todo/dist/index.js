@@ -1,12 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const Task_1 = require("./Task");
 const inquirer = require("inquirer");
 const jsonToDo_1 = require("./jsonToDo");
-let tasks = [
-    new Task_1.Task(1, "Buy mangos"), new Task_1.Task(2, "Go for run"), new Task_1.Task(3, "Eat Mangos")
-];
-let icollection = new jsonToDo_1.jsonToDo("Adams", tasks);
+let icollection = new jsonToDo_1.jsonToDo("Adams");
 // let icollection2: TaskCollection = new jsonToDo("Noman");
 let showComplete = true;
 function displayToDoItems() {
@@ -44,6 +40,11 @@ function promptComplete() {
 }
 icollection.addTodo("first task");
 icollection.addTodo("eat mangos");
+icollection.addTodo("Buy Mango");
+icollection.addTodo("Buy Meat");
+icollection.addTodo("Get Haircut");
+icollection.taskDone(2);
+icollection.printAll();
 // icollection2.addTodo("second task");
 // icollection2.addTodo("eat apple");
 icollection.taskDone(1);

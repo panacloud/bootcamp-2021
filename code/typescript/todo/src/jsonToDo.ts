@@ -1,5 +1,5 @@
-import { Task } from "./Task";
-import { TaskCollection } from "./TaskCollection";
+import { Task } from "./todoItem";
+import { TaskCollection } from "./todoCollection";
 import * as lowdb from "lowdb";
 import * as FileSync from "lowdb/adapters/FileSync";
 

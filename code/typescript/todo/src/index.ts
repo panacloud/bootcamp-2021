@@ -1,5 +1,5 @@
-import { Task } from "./Task";
-import { TaskCollection } from "./TaskCollection";
+import { Task } from "./todoItem";
+import { TaskCollection } from "./todoCollection";
 import * as inquirer from 'inquirer';
 import { jsonToDo } from "./jsonToDo";
 
@@ -50,6 +50,13 @@ function promptComplete(): void {
 
 icollection.addTodo("first task");
 icollection.addTodo("eat mangos");
+icollection.addTodo("Buy Mango");
+icollection.addTodo("Buy Meat");
+icollection.addTodo("Get Haircut");
+
+icollection.taskDone(2);
+
+icollection.printAll();
 
 // icollection2.addTodo("second task");
 // icollection2.addTodo("eat apple");

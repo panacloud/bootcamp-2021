@@ -385,7 +385,13 @@ Study the Chapter One of the Essential Typescript Text book and create a Todo Ap
 
 Class 6 Videos: Publishing Packages on NPM
 
-[Class 5: Publishing Packages on NPM in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/403045184458900)
+[Class 6: Publishing Packages on NPM in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/403045184458900)
+
+[Class 6: Publishing Packages on NPM in English on YouTube](https://www.youtube.com/watch?v=gorOkthsdec)
+
+[Class 6: Publishing Packages on NPM in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/846570356261059)
+
+[Class 6: Publishing Packages on NPM in Urdu on YouTube](https://www.youtube.com/watch?v=icsgsnS6mg4)
 
 ## Project 2: Todo CLI
 

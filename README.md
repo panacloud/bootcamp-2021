@@ -11,17 +11,25 @@ Operation Unicorn, is planning to introduce an Certified Unicorn Developer inter
 The program will be an eighteen month program consisting of six quarters. The first four quaters will cover the foundations which will be requried for creating Unicorn Startups:
 
 Quarter 1: Introduction to API Token Economy and Fundamentals of Programming
+
 Quarter 2: API Development using Serverless Cloud Computing
+
 Quarter 3: Introduction to Token Economy, Smart Contracts and Dapps
+
 Quarter 4: Introduction to AI, Machine Learning and Deep Learning in the Cloud
 
 For the next two quaters students will choose from the following areas of specialization:
 
 AI Cloud Spiecialist
+
 IoT Cloud Specialist
+
 DeFi and Dapps Specialist
+
 Web and Hybrid Mobile App Specialist
+
 Algorithms, Data Stuctures and Design Patterns Specialist
+
 Quantum Computing Specialist
 
 In this Bootcamp we will finalize the curriculum for this certification program iteratively. Once the program is finalized we will help anyone and everyone who has the resource to open a training institute to do so. 

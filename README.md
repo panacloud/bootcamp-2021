@@ -1,8 +1,27 @@
-# Bootcamp 2021: Getting Developers Ready for the API Token Economy
+# Bootcamp 2021: Become a Certified Unicorn Developer (CUD) and Get Ready for the API Token Economy 
 
 ## Fusing Serverless, Graph, AI, IoT, Blockchain, and Quantum Technologies
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front.
+
+Operation Unicorn, is planning to introduce an Certified Unicorn Developer international certification. For developers, the word “unicorn” refers to someone with such a diverse range of skills that they’re incredibly rare. We beleave that this rare breed will be required to develop Apps and APIs for the next generation Unicorn Startups. The future developers will develop applications and APIs that will fuse Serverless/Cloud, Graph, AI, IoT, Blockchain, and Quantum Technologies.
+
+The program will be an eighteen month program consisting of six quarters. The first four quaters will cover the foundations which will be requried for creating Unicorn Startups:
+
+Quarter 1: Introduction to API Token Economy and Programming
+Quarter 2: API Development using Serverless Cloud Computing
+Quarter 3: Introduction to Token Economy, Smart Contracts and Dapps
+Quarter 4: Introduction to AI, Machine Learning and Deep Learning in the Cloud
+
+For the next two quaters students will choose from the following areas of specialization:
+
+AI Cloud Spiecialist
+IoT Cloud Specialist
+DeFi Specialist
+Web and Hybrid Mobile App Specialist
+Algorithms, Data Stuctures and Design Patterns Specialist
+
+In this Bootcamp we will finalize the curriculum for this certification program iteratively. Once the program is finalized we will help anyone and everyone who has the resource to open a training institute to do so. 
 
 This is a Open and Free Bootcamp, for admission just [fill this admission form](https://forms.gle/QFvfSMquJZftyyiT9).
 
@@ -410,7 +429,7 @@ Project Reading Resources:
 [Todo CLI Repo](https://github.com/dalenguyen/todo-cli)
 
 
-## Part 3: Introduction to Serverless using CDK v2
+## Part 3: Introduction to Serverless and Cloud Computing using CDK
 
 [Promising trends in the serverless infrastructure market](https://betanews.com/2021/07/07/trends-serverless-infrastructure/)
 
@@ -446,7 +465,44 @@ We will focus on Serverless SaaS API development using CDK and AWS Lambda, AWS A
 
 Also please note that we will write the application code in Python and infrasturcture code will be in Typescript.
 
-## Part 4: Learning AWS Graph Database Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
+
+
+## Part 4: Introduction to Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads
+
+[Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)
+
+[What is Ethereum? A Beginner's Explanation in Plain English](https://www.youtube.com/watch?v=jxLkbJozKbY)
+
+[ETH, The World’s Most Valuable Asset](https://apbakst.medium.com/eth-the-worlds-most-valuable-asset-802461f2b3e5)
+
+[What is DeFi? A Beginner’s Guide to Decentralized Finance](http://www.youtube.com/watch?v=btB__oHQ0sU)
+
+[How decentralized finance will transform business financial services – especially for SMEs](https://www.weforum.org/agenda/2021/07/decentralized-finance-transaction-banking-smes/)
+
+[Decentralized finance (DeFi)](https://ethereum.org/en/defi/)
+
+[What is an Initial DEX Offering (IDO)? How is it Different Than ICO & IEO?](https://cryptopotato.com/what-is-an-initial-dex-offering-ido-how-is-it-different-than-ico-ieo/)
+
+[What is Uniswap - A Beginner's Guide](https://www.youtube.com/watch?v=dIneNZTnFMw)
+
+[What is Uniswap In Simple Words?](https://cryptopotato.com/what-is-uniswap-in-simple-words/)
+
+[A Graphical Guide for Understanding Uniswap](https://docs.ethhub.io/guides/graphical-guide-for-understanding-uniswap/)
+
+[Uniswap review and tutorial: Beginners guide and advanced tips and tricks](https://boxmining.com/uniswap-review-tutorial/)
+
+[Top Crypto Launch Pads ](https://hackernoon.com/top-6-crypto-launchpads-in-2021-3fh34au)
+
+[Why participate in a Polkastarter IDO as a project and a backer](https://blog.polkastarter.com/why-participate-in-a-polkastarter-ido/?utm_content=why-polkastarter)
+
+[Everything you need to know about DuckSTARTER](https://medium.com/duckdao/everything-you-need-to-know-about-duckstarter-303ed12944f9)
+
+
+## Part 5: Introduction to Smart Contracts, Dapps, Web3.js and Solidity
+
+
+
+## Part 6: Learning AWS Graph Database Neptune, Graph Data Modeling, Gremlin, Graphs, AI, and Machine Learning
 
 [Graphs as a foundational technology stack: Analytics, AI, and hardware](https://venturebeat.com/2021/05/28/graphs-as-a-foundational-technology-stack-analytics-ai-and-hardware/)
 
@@ -538,15 +594,15 @@ Also please note that we will write the application code in Python and infrastur
 [Amazon Neptune ML](https://aws.amazon.com/neptune/machine-learning/)
 
 
-## Part 5: AI as a Service
+## Part 7: AI as a Service
 
 [AI as a Service: Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
 
 
 
-## Part 6: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
+## Part 8: Building Multi-Tenant SaaS APIs using Panacloud Serverless SaaS Tech
 
-## Part 7: Advanced Tensorflow
+## Part 9: Advanced Tensorflow
 
 [We may choose from the following books](https://www.guru99.com/best-tensorflow-books.html)
 
@@ -556,7 +612,7 @@ Right now these two books are the best sellers:
 
 [Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow ](https://www.amazon.com/Practical-Learning-Cloud-Mobile-Hands/dp/149203486X/ref=sr_1_9)
 
-## Part 8: AIoT and Edge Computing 
+## Part 10: AIoT and Edge Computing 
 
 [Getting started with AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-gs.html)
 
@@ -568,7 +624,7 @@ We will be using the Greengrass Tutorial and inhancing all the examples and code
 
 It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi 3 Model B/B+, with a 8 GB microSD card, or will have to use an Amazon EC2 instance as a virtual edge device.
 
-## Part 9: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
+## Part 11: Building, Training, and Deploying Machine Learning Models on Cloud and Edge with Amazon SageMaker
 
 [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X)
 
@@ -576,11 +632,11 @@ It is highly recommended that you have a Raspberry Pi 4 Model B, or Raspberry Pi
 
 We will be using the Learn Amazon SageMaker Textbook and inhancing all the examples and code using CDK.
 
-## Part 10: Voice Computing
+## Part 12: Voice Computing
 
 {Add Voice To Your Serverless Apps with Alexa Through AWS CDK](https://dev.to/cdkpatterns/add-voice-to-your-serverless-apps-with-alexa-through-aws-cdk-45n0)
 
-## Part 11: Embedded Real-Time Computing
+## Part 13: Embedded Real-Time Computing
 
 [FreeRTOS](https://aws.amazon.com/freertos/)
 
@@ -598,7 +654,7 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 
 [We will try to move to Pico if Rust becomes fully functional on it](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 
-## Part 12: Advance Blockchain, Stable Coin, Ethereum 2.0, and DeFi Technologies
+## Part 14: Advance Blockchain, Stable Coin, Ethereum 2.0, and DeFi Technologies
 
 [The token’s secret: the two-faced financial incentive of the token economy](https://link.springer.com/article/10.1007/s12525-020-00412-9)
 
@@ -626,7 +682,7 @@ We will be using the Learn Amazon SageMaker Textbook and inhancing all the examp
 
 [How to DeFi](https://www.amazon.com/How-DeFi-CoinGecko-ebook/dp/B0868N5GJ8/ref=sr_1_1)
 
-## Part 13: Quantum Computing with Amazon Braket
+## Part 15: Quantum Computing with Amazon Braket
 
 [Amazon Braket](https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/)
 

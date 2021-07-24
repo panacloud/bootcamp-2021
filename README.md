@@ -1,8 +1,9 @@
 # Bootcamp 2021: Become a Certified Unicorn Developer (CUD) and Get Ready for the API Token Economy 
 
-![CUD](cudlogo.png)
-
-<img src="cudlogo.png" alt="CUD logo" style="height: 100px; width:100px;"/>
+<img src="cudlogo.png" alt="CUD logo" style="height: 100px; width:100px;" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"/>
 
 ## Fusing Serverless, Graph, AI, IoT, DeFi, Blockchain, and Quantum Technologies
 

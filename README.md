@@ -6,8 +6,9 @@
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front. For this purpose are starting a not-for-profit movement called Operation Unicorn. 
 
-Operation Unicorn, is planning to introduce a Certified Unicorn Developer international certification. For developers, the word “unicorn” refers to someone with such a diverse range of skills that they’re incredibly rare. We believe that this rare breed will be required to develop Apps, Dapps, and APIs for the next generation Unicorn Startups. The future developers will develop applications and APIs that will fuse Serverless/Cloud, Graph, AI, IoT, Blockchain, and Quantum Technologies.
-The certification program will be an eighteen month program consisting of six quarters. The first four quaters will cover the foundations which will be required for creating Unicorn Startups:
+Operation Unicorn, is planning to introduce a Certified Unicorn Developer international certification. For developers, the word “unicorn” refers to someone with such a diverse range of skills that they’re incredibly rare. We believe that this rare breed will be required to develop Apps, Dapps, and APIs for the next generation of Unicorn Startups. The future developers will develop applications and APIs that will fuse Serverless/Cloud, Graph, AI, IoT, Blockchain, and Quantum Technologies.
+
+The certification program will be an eighteen-month program consisting of six quarters. The first four quarters will cover the foundations which will be required for creating Unicorn Startups:
 
 Quarter 1: Introduction to API Token Economy and Fundamentals of Programming
 
@@ -17,16 +18,16 @@ Quarter 3: Introduction to Token Economy, Smart Contracts and Dapps
 
 Quarter 4: Introduction to AI, Machine Learning and Deep Learning in the Cloud
 
-For the last two quarters students will choose from the following areas of specialisation:
+For the last two-quarters students will choose from the following areas of specialization:
 
-1. AI Cloud Spiecialist
+1. AI Cloud Specialist
 2. IoT Cloud Specialist
 3. DeFi and Dapps Specialist
 4. Web and Hybrid Mobile App Specialist
-5. Algorithms, Data Stuctures and Design Patterns Specialist
+5. Algorithms, Data Structures and Design Patterns Specialist
 6. Quantum Computing Specialist
 
-In the Bootcamp 2021 we will finalise the curriculum for this certification program iteratively. Once the program is finalised the pandemic is bit under-control, we will help you to open a training institute anywhere in the world.
+In Bootcamp 2021 we will finalize the curriculum for this certification program iteratively. Once the program is finalized and the pandemic is bit under-control, we will help you to open a training institute anywhere in the world which will train Unicorn Developers.
 
 This is a Open and Free Bootcamp, for admission just [fill this admission form](https://forms.gle/QFvfSMquJZftyyiT9).
 

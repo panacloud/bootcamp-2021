@@ -1,10 +1,13 @@
 # Bootcamp 2021: Become a Certified Unicorn Developer (CUD) and Get Ready for the API Token Economy 
 
+![CUD](cudlogo.png)
+
+<img src="cudlogo.png" alt="CUD logo" style="height: 100px; width:100px;"/>
+
 ## Fusing Serverless, Graph, AI, IoT, DeFi, Blockchain, and Quantum Technologies
 
 Covid-19 propelled businesses into the future, ready or not. “Covid has acted like a time machine: it brought 2030 to 2020,” said Loren Padelford, vice president at Shopify Inc. “All those trends, where organizations thought they had more time, got rapidly accelerated.” We at Panacloud are trying to respond to these challenges and trying to lead from the front. For this purpose are starting a not-for-profit movement called Operation Unicorn. 
 
-![CUD](cudlogo.png)
 
 Operation Unicorn, is planning to introduce an Certified Unicorn Developer international certification. For developers, the word “unicorn” refers to someone with such a diverse range of skills that they’re incredibly rare. We beleave that this rare breed will be required to develop Apps and APIs for the next generation Unicorn Startups. The future developers will develop applications and APIs that will fuse Serverless/Cloud, Graph, AI, IoT, Blockchain, and Quantum Technologies.
 

@@ -20,17 +20,12 @@ Quarter 4: Introduction to AI, Machine Learning and Deep Learning in the Cloud
 
 For the next two quaters students will choose from the following areas of specialization:
 
-AI Cloud Spiecialist
-
-IoT Cloud Specialist
-
-DeFi and Dapps Specialist
-
-Web and Hybrid Mobile App Specialist
-
-Algorithms, Data Stuctures and Design Patterns Specialist
-
-Quantum Computing Specialist
+1. AI Cloud Spiecialist
+2. IoT Cloud Specialist
+3. DeFi and Dapps Specialist
+4. Web and Hybrid Mobile App Specialist
+5. Algorithms, Data Stuctures and Design Patterns Specialist
+6. Quantum Computing Specialist
 
 In this Bootcamp we will finalize the curriculum for this certification program iteratively. Once the program is finalized we will help anyone and everyone who has the resource to open a training institute to do so. 
 

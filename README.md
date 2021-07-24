@@ -27,7 +27,7 @@ For the next two quaters students will choose from the following areas of specia
 5. Algorithms, Data Stuctures and Design Patterns Specialist
 6. Quantum Computing Specialist
 
-In this Bootcamp we will finalize the curriculum for this certification program iteratively. Once the program is finalized we will help anyone and everyone who has the resource to open a training institute to do so. 
+In this Bootcamp we will finalize the curriculum for this certification program iteratively. Once the program is finalised the pandemic is bit under-control, we will help you to open a training institute anywhere in the world.
 
 This is a Open and Free Bootcamp, for admission just [fill this admission form](https://forms.gle/QFvfSMquJZftyyiT9).
 

@@ -14,6 +14,7 @@ class TaskCollection {
         this.nextId++;
         this.tasks.push(item);
         this.itemMap.set(this.nextId, new Task_1.Task(this.nextId, task));
+        // we have added itemMap
     }
     getTodoById(id) {
         return this.itemMap.get(id);

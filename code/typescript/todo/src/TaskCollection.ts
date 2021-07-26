@@ -14,6 +14,7 @@ export class TaskCollection {
         this.nextId++;
         this.tasks.push(item);
         this.itemMap.set(this.nextId, new Task(this.nextId, task));
+        // we have added itemMap
     
     
     }

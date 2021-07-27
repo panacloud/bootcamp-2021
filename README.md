@@ -471,6 +471,30 @@ We will focus on Serverless SaaS API development using CDK and AWS Lambda, AWS A
 
 Also please note that we will write the application code in Python and infrasturcture code will be in Typescript.
 
+### Class 7: Getting Started with Infrastructure as Code (IaC) using AWS CDK
+
+Infrastructure as code, also referred to as IaC, is an IT practice that codifies and manages underlying IT infrastructure as software. The purpose of infrastructure as code is to enable developers or operations teams to automatically manage, monitor and provision resources, rather than manually configure discrete hardware devices and operating systems. Infrastructure as code is sometimes referred to as programmable or software-defined infrastructure.
+
+Create Free AWS Account
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
+
+[Infrastructure as Code](https://searchitoperations.techtarget.com/definition/Infrastructure-as-Code-IAC)
+
+[CDK or Terraform?](https://medium.com/swlh/cdk-or-terraform-88a464bedf9e)
+
+[CDK for Terraform](https://learn.hashicorp.com/tutorials/terraform/cdktf)
+
+[Introducing CDK for Kubernetes](https://aws.amazon.com/blogs/containers/introducing-cdk-for-kubernetes/)
+
+[What is AWS CDK, and why should your DevOps teams use it?](https://www.nclouds.com/blog/what-is-aws-cdk-and-why-should-your-devops-teams-use-it/)
+
+[What is the AWS CDK?](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
+
+[Steps 00 of Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step00_hello_cdk)
+
 
 
 ## Part 4: Introduction to Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

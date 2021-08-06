@@ -435,6 +435,7 @@ Project Reading Resources:
 [Todo CLI Repo](https://github.com/dalenguyen/todo-cli)
 
 
+
 ## Part 3: Introduction to Serverless and Cloud Computing using CDK
 
 [Expert Advice on Moving to Serverless](https://dashbird.io/blog/expert-advice-moving-to-serverless/)
@@ -473,12 +474,6 @@ Also please note that we will write the application code in Python and infrastur
 
 Infrastructure as code, also referred to as IaC, is an IT practice that codifies and manages underlying IT infrastructure as software. The purpose of infrastructure as code is to enable developers or operations teams to automatically manage, monitor and provision resources, rather than manually configure discrete hardware devices and operating systems. Infrastructure as code is sometimes referred to as programmable or software-defined infrastructure.
 
-Create Free AWS Account
-
-[AWS Free Tier](https://aws.amazon.com/free/)
-
-Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
-
 [Centralized vs Decentralized vs Distributed Systems](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
 
 [Blockchain vs Cloud Computing](https://www.upgrad.com/blog/blockchain-vs-cloud-computing/)
@@ -506,6 +501,30 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 [What is AWS CDK, and why should your DevOps teams use it?](https://www.nclouds.com/blog/what-is-aws-cdk-and-why-should-your-devops-teams-use-it/)
 
 [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
+
+Class 7 Videos: The Future of Computing
+
+[Class 7: The Future of Computing in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/2918670415052373)
+
+[Class 7: The Future of Computing in English on YouTube](https://www.youtube.com/watch?v=ic7U2r_-C78)
+
+[Class 7: The Future of Computing in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/189709983183156)
+
+[Class 7: The Future of Computing in Urdu on YouTube](https://www.youtube.com/watch?v=0mCvIqSYxK8)
+
+### Class 8: AWS CDK and Lambda Hello World
+
+Create Free AWS Account
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
+
+Study Material:
+
+[Step 00: Hello CDK](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step00_hello_cdk)
+
+[Step 01: Hello Lambda](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda)
 
 
 

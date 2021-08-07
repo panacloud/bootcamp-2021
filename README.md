@@ -526,6 +526,14 @@ Study Material:
 
 [Step 01: Hello Lambda](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda)
 
+## Project 3: Define a Hitcounter API using CDK
+
+Build a Hitcounter API follow the [CDK Workshop](https://cdkworkshop.com/20-typescript/40-hit-counter/100-api.html)
+
+It is require that before you build your Hitcounter API you follow the workshop for the start.
+
+[Follow these steps to Submit the Project](https://github.com/panacloud/bootcamp-2021-proj-sub)
+
 
 
 ## Part 4: Introduction to Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

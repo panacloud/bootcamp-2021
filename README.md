@@ -526,6 +526,11 @@ Study Material:
 
 [Step 01: Hello Lambda](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda)
 
+Class 8 Videos: Hello CDK
+
+[Class 8: Hello CDK in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/261780865432466)
+
+
 ## Project 3: Define a Hitcounter API using CDK
 
 Build a Hitcounter API follow the [CDK Workshop](https://cdkworkshop.com/20-typescript/40-hit-counter/100-api.html)

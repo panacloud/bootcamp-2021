@@ -541,7 +541,9 @@ It is require that before you build your Hitcounter API you follow the workshop 
 
 
 
-## Part 4: Introduction to Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads
+## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads
+
+[Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 
 [Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)
 

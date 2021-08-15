@@ -530,7 +530,7 @@ Class 8 Videos: Hello CDK
 
 [Class 8: Hello CDK in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/261780865432466)
 
-[Class 8: Hello CDK in English on YouTube]()
+[Class 8: Hello CDK in English on YouTube](https://www.youtube.com/watch?v=yyuQ6f6znXc)
 
 [Class 8: Hello CDK in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/204372268374467)
 

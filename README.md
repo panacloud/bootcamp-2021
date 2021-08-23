@@ -536,6 +536,23 @@ Class 8 Videos: Hello CDK
 
 [Class 8: Hello CDK in Urdu on YouTube](https://www.youtube.com/watch?v=kiOcVAPwlzQ)
 
+### Class 9: AWS Lambda and CDN Website Deployment using CDK
+
+[Step 01](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda)
+
+[Step 02](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step02_hello_website)
+
+Class 9 Videos: Hello CDK Lambda and CDN Website Deployment
+
+[Class 9: Lambda and CDN Website Deployment in English on Facebook](https://www.facebook.com/524892375/videos/271984638085194/)
+
+[Class 9: Lambda and CDN Website Deployment in English on YouTube]()
+
+[Class 9: Lambda and CDN Website Deployment in Urdu on Facebook](https://www.facebook.com/100003743983275/videos/159330759673241/)
+
+[Class 9: Lambda and CDN Website Deployment in Urdu on YouTube](https://youtu.be/KJ_MZ85ALiA)
+
+
 
 ## Project 3: Define a Hitcounter API using CDK
 

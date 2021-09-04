@@ -562,6 +562,24 @@ It is require that before you build your Hitcounter API you follow the workshop 
 
 [Follow these steps to Submit the Project](https://github.com/panacloud/bootcamp-2021-proj-sub)
 
+### Class 10 and 11 Videos: Integrate AppSync with Lambda as a Datasource
+
+[Class 10: Integrate AppSync with Lambda as a Datasource in English on Facebook](https://www.facebook.com/524892375/videos/1196774377471411/)
+
+[Class 10: Integrate AppSync with Lambda as a Datasource in English on YouTube](https://youtu.be/m_lPimHUd4k)
+
+[Class 10: Integrate AppSync with Lambda as a Datasource in Urdu on Facebook](https://www.facebook.com/100003743983275/videos/1009725069788588/)
+
+[Class 10: Integrate AppSync with Lambda as a Datasource in Urdu on YouTube](https://youtu.be/1-wOShkvThQ)
+
+[Class 11: Integrate AppSync with Lambda as a Datasource in English on Facebook](https://www.facebook.com/524892375/videos/547896853204913/)
+
+[Class 11: Integrate AppSync with Lambda as a Datasource in English on YouTube]()
+
+[Class 11: Integrate AppSync with Lambda as a Datasource in Urdu on Facebook]()
+
+[Class 11: Integrate AppSync with Lambda as a Datasource in Urdu on YouTube]()
+
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

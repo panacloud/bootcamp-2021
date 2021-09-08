@@ -574,11 +574,11 @@ It is require that before you build your Hitcounter API you follow the workshop 
 
 [Class 11: Integrate AppSync with Lambda as a Datasource in English on Facebook](https://www.facebook.com/524892375/videos/547896853204913/)
 
-[Class 11: Integrate AppSync with Lambda as a Datasource in English on YouTube]()
+[Class 11: Integrate AppSync with Lambda as a Datasource in English on YouTube](https://youtu.be/mggxxU1FB80)
 
-[Class 11: Integrate AppSync with Lambda as a Datasource in Urdu on Facebook]()
+[Class 11: Integrate AppSync with Lambda as a Datasource in Urdu on Facebook](https://www.facebook.com/100003743983275/videos/578799806798029/)
 
-[Class 11: Integrate AppSync with Lambda as a Datasource in Urdu on YouTube]()
+[Class 11: Integrate AppSync with Lambda as a Datasource in Urdu on YouTube](https://youtu.be/BV6nynkPOTc)
 
 
 

@@ -583,7 +583,7 @@ It is require that before you build your Hitcounter API you follow the workshop 
 
 [Class 12: Integrate AppSync with Lambda with DynamoDB in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/624498375622116)
 
-[Class 12: Integrate AppSync with Lambda with DynamoDB in English on YouTube]()
+[Class 12: Integrate AppSync with Lambda with DynamoDB in English on YouTube](https://youtu.be/m1ufBAiW4DU)
 
 [Class 12: Integrate AppSync with Lambda with DynamoDB in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2948723565388425)
 
@@ -592,6 +592,8 @@ It is require that before you build your Hitcounter API you follow the workshop 
 ### Class 13 Videos: API Design, Prototyping, Development, and Testing - Everything Must and Will Become an API
 
 [API Design,Prototype, and Testing Learning Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
+
+
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

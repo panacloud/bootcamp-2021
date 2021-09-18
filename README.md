@@ -594,7 +594,12 @@ It is require that before you build your Hitcounter API you follow the workshop 
 [API Design,Prototype, and Testing Learning Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
 
 
+## Project 4: Develop Simple Book API on AWS
 
+In this project we are going to define a Simple Book API on AWS using CDK, API Gateway, Lambda Function and DynamoDB. 
+After we have developed the APIs we will test them using Postman. 
+
+The requirements of this API are documented in this [repo](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads
 

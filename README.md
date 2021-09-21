@@ -594,6 +594,17 @@ It is require that before you build your Hitcounter API you follow the workshop 
 [API Design,Prototype, and Testing Learning Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
 
 
+
+[Class 13: REST Request Collections in English on Facebook](https://www.facebook.com/524892375/videos/346470683935208/)
+
+[Class 13: REST Request Collections in English on YouTube](https://youtu.be/ZxzGnhiPwGI)
+
+[Class 13: REST Request Collections in Urdu on Facebook](https://www.facebook.com/100003743983275/videos/3077781142435405/)
+
+[Class 13: REST Request Collections in Urdu on YouTube](https://youtu.be/4Sy2Cl-BeaQ)
+
+
+
 ## Project 4: Develop Simple Book API on AWS
 
 In this project we are going to define a Simple Book API on AWS using CDK, API Gateway, Lambda Function and DynamoDB. 

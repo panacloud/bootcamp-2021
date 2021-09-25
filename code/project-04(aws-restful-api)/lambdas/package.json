@@ -1,0 +1,13 @@
+{
+  "name": "lambdas",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.993.0",
+    "uuid": "*"
+  },
+  "devDependencies": {
+    "@types/uuid": "*"
+  }
+}

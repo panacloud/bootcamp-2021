@@ -612,6 +612,15 @@ After we have developed the APIs we will test them using Postman.
 
 The requirements of this API are documented in this [repo](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
 
+The project code is pushed here, please donot copy the code it is for your reference to see after buiding the project:
+
+https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
+
+## Project 5: Develop Todo QraphQL API on AWS
+
+[Watch this video](https://www.youtube.com/watch?v=eyWE0md1doA) and develop a GraphQL Todo API on AWS using AppSync, Lambda Functions, and DynamoDB. Then test it using postman.
+
+
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads
 
 [Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)

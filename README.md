@@ -616,6 +616,20 @@ The project code is pushed here, please donot copy the code it is for your refer
 
 https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
 
+
+[Class 14: Building Simple Books API with AWS API Gateway in English on Facebook](https://web.facebook.com/fb.anees.ahmed/videos/1536119160098219)
+
+[Class 14: Building Simple Books API with AWS API Gateway in English on YouTube](https://youtu.be/7YgZC0tZJ8A)
+
+[Class 14: Building Simple Books API with AWS API Gateway in Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/1802443406626216)
+
+[Class 14: Building Simple Books API with AWS API Gateway in Urdu on YouTube](https://youtu.be/enYadeUMP0E)
+
+Code for Class 14:
+
+https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
+
+
 ## Project 5: Develop Todo QraphQL API on AWS
 
 [Watch this video](https://www.youtube.com/watch?v=eyWE0md1doA) and develop a GraphQL Todo API on AWS using AppSync, Lambda Functions, and DynamoDB. Then test it using postman.

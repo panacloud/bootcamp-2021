@@ -563,7 +563,7 @@ It is require that before you build your Hitcounter API you follow the workshop 
 [Follow these steps to Submit the Project](https://github.com/panacloud/bootcamp-2021-proj-sub)
 
 
-### Class 10, 11, and 12 Videos: Integrate AppSync with Lambda and DynamoDB
+### Class 10, 11, 12, 13, 14 and 15 Videos: Integrate API Gateway and AppSync with Lambda and DynamoDB
 
 [Class 10: Integrate AppSync with Lambda as a Datasource in English on Facebook](https://www.facebook.com/524892375/videos/1196774377471411/)
 
@@ -616,6 +616,7 @@ The project code is pushed here, please donot copy the code it is for your refer
 
 https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
 
+### Class 14 Videos: Building Simple Books API with AWS API Gateway 
 
 [Class 14: Building Simple Books API with AWS API Gateway in English on Facebook](https://web.facebook.com/fb.anees.ahmed/videos/1536119160098219)
 
@@ -629,10 +630,28 @@ Code for Class 14:
 
 https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
 
-
 ## Project 5: Develop Todo QraphQL API on AWS
 
 [Watch this video](https://www.youtube.com/watch?v=eyWE0md1doA) and develop a GraphQL Todo API on AWS using AppSync, Lambda Functions, and DynamoDB. Then test it using postman.
+
+The project code is pushed here, please donot copy the code it is for your reference to see after buiding the project:
+
+https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
+
+
+### Class 15 Videos: Building GraphQL Todo APIs with AWS App Sync
+
+[Class 15: Building GraphQL Todo APIs with AWS App Sync in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/415068096672403)
+
+[Class 15: Building GraphQL Todo APIs with AWS App Sync in English on YouTube](https://youtu.be/_j8_oiY4GRk)
+
+[Class 15: Building GraphQL Todo APIs with AWS App Sync in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/290727786218631)
+
+[Class 15: Building GraphQL Todo APIs with AWS App Sync in Urdu on YouTube](https://youtu.be/UnV_YDz_IIE)
+
+Code for Class 15:
+
+https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

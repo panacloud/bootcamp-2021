@@ -653,6 +653,23 @@ Code for Class 15:
 
 https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
+### Class 16 Videos: Use-Case Driven QraphQL API Design and Design Thinking
+
+[Reading Material: Steps 02 and 03 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
+
+[Class 16: se-Case Driven QraphQL API Design and Design Thinking in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/921873555107834)
+
+[Class 16: se-Case Driven QraphQL API Design and Design Thinking in English on YouTube](https://youtu.be/VSNoK66Fqxw)
+
+[Class 16: se-Case Driven QraphQL API Design and Design Thinking in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/989501124969236)
+
+[Class 16: se-Case Driven QraphQL API Design and Design Thinking in Urdu on YouTube](https://youtu.be/ndCrHD3Nmjs)
+
+### Class 17 Videos: Introduction to Graph Databases
+
+[Reading Material: Steps 04 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
+
+
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads
 

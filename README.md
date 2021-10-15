@@ -669,6 +669,8 @@ https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 [Reading Material: Steps 04 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
 
+[Graph Databases for Dummies Book](https://neo4j.com/graph-databases-for-dummies/)
+
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

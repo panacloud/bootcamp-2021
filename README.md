@@ -679,6 +679,14 @@ https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 [You can use this Arrows.app to draw pictures of graphs](https://arrows.app/)
 
+[Class 17: Intro to Graph Databases in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/427718212030826)
+
+[Class 17: Intro to Graph Databases in English on YouTube](https://youtu.be/jw3oEdZGOXU)
+
+[Class 17: Intro to Graph Databases in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/419571513021530)
+
+[Class 17: Intro to Graph Databases in Urdu on YouTube](https://youtu.be/S4NcE7sdQpE)
+
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

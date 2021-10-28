@@ -687,6 +687,18 @@ https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 [Class 17: Intro to Graph Databases in Urdu on YouTube](https://youtu.be/S4NcE7sdQpE)
 
+### Class 18 Videos: AWS Neptune Graph Database
+
+[Code Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step45a_neptune_cypher_gql)
+
+[Class 18: AWS Neptune Graph Database in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/887365838817159)
+
+[Class 18: AWS Neptune Graph Database in English on YouTube](https://youtu.be/tg0w9fA6jFw)
+
+[Class 18: AWS Neptune Graph Database in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/411998473890746)
+
+[Class 18: AWS Neptune Graph Database in Urdu on YouTube](https://youtu.be/nKyphJAGRqg)
+
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

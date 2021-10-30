@@ -702,6 +702,8 @@ https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 ### Class 19 Videos: Relational Databases Design
 
+[Reading Material: Steps 06 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
+
 Reading Material:
 
 [Database Design in DBMS Tutorial: Learn Data Modeling](https://www.guru99.com/database-design.html)

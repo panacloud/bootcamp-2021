@@ -712,6 +712,16 @@ Reading Material:
 
 [What is ER Modeling?](https://www.guru99.com/er-modeling.html)
 
+[Class 19: Relational Database Design in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/604312681009733)
+
+[Class 19: Relational Database Design in English on YouTube](https://youtu.be/377Iip-OVr0)
+
+[Class 19: Relational Database Design in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/3122170161394882)
+
+[Class 19: Relational Database Design in Urdu on YouTube](https://youtu.be/bYzVBSf0zMM)
+
+
+
 ### Class 20 Videos: Learning SQL
 
 Reading Material:

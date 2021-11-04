@@ -8,6 +8,8 @@ Covid-19 propelled businesses into the future, ready or not. “Covid has acted 
 
 Operation Unicorn, is planning to introduce a Certified Unicorn Developer international certification. For developers, the word “unicorn” refers to someone with such a diverse range of skills that they’re incredibly rare. We believe that this rare breed will be required to develop Apps, Dapps, and APIs for the next generation of Unicorn Startups. The future developers will develop applications and APIs that will fuse Serverless/Cloud, Graph, AI, IoT, Blockchain, and Quantum Technologies.
 
+[Why blockchain is the operating system of the digital age](https://forkast.news/why-blockchain-is-operating-system-of-digital-age/) Explore the Trivergence: the intersection of blockchain, artificial intelligence, and the internet of things
+
 The certification program will be an eighteen-month program consisting of six quarters. The first four quarters will cover the foundations which will be required for creating Unicorn Startups:
 
 Quarter 1: Introduction to API Token Economy and Fundamentals of Programming

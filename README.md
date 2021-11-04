@@ -733,6 +733,10 @@ Reading Material:
 
 ### Class 20 Videos: Learning SQL
 
+[Download PostgreSQL](https://www.postgresql.org/download/)
+
+[Download DBeaver](https://dbeaver.io/)
+
 Reading Material:
 
 [Chapters 1, 4-10 of the SQL QuickStart Guide](https://github.com/RaoAkif/Books/raw/main/SQL/Walter%20Shields%20-%20SQL%20QuickStart%20Guide_%20The%20Simplified%20Beginner's%20Guide%20to%20Managing%2C%20Analyzing%2C%20and%20Manipulating%20Data%20With%20SQL%20(2019%2C%20ClydeBank%20Media%20LLC).pdf)

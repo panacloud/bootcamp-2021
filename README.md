@@ -701,6 +701,13 @@ https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 [Class 18: AWS Neptune Graph Database in Urdu on YouTube](https://youtu.be/nKyphJAGRqg)
 
+## Project 6: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL
+
+[Dinning by Friends API Project using Neptune and AppSync](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step53_api_project_one)
+
+[Tutorial: Building a GraphQL API on AWS with Amazon Neptune Graph Database, AppSync, TypeScript, and CDK](https://dev.to/dabit3/building-a-graphql-api-on-aws-with-amazon-neptune-graph-database-and-cdk-428a)
+
+
 
 ### Class 19 Videos: Relational Databases Design
 
@@ -764,7 +771,9 @@ Reading Material:
 
 [AWS Lambda](https://github.com/sequelize/sequelize/pull/12642)
 
+## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 
+[Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads

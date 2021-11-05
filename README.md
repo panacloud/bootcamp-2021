@@ -10,6 +10,8 @@ Operation Unicorn, is planning to introduce a Certified Unicorn Developer intern
 
 [Why blockchain is the operating system of the digital age](https://forkast.news/why-blockchain-is-operating-system-of-digital-age/) Explore the Trivergence: the intersection of blockchain, artificial intelligence, and the internet of things
 
+[Report: 67% of developers embrace an API-first philosophy](https://venturebeat.com/2021/10/28/report-67-of-developers-embrace-an-api-first-philosophy/)
+
 The certification program will be an eighteen-month program consisting of six quarters. The first four quarters will cover the foundations which will be required for creating Unicorn Startups:
 
 Quarter 1: Introduction to API Token Economy and Fundamentals of Programming

@@ -745,6 +745,15 @@ Reading Material:
 
 [W3C SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 
+[Class 20: Learn SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/641765553487507)
+
+[Class 20: Learn SQL in English on YouTube]()
+
+[Class 20: Learn SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/367171545094909)
+
+[Class 20: Learn SQL in Urdu on YouTube](https://youtu.be/hmqEucXv_lY)
+
+
 ### Class 21 Videos: Serverless PostgreSQL Databases
 
 Reading Material:

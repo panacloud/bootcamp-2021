@@ -747,7 +747,7 @@ Reading Material:
 
 [Class 20: Learn SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/641765553487507)
 
-[Class 20: Learn SQL in English on YouTube]()
+[Class 20: Learn SQL in English on YouTube](https://youtu.be/JmAnEElqU5Q)
 
 [Class 20: Learn SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/367171545094909)
 

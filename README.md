@@ -776,9 +776,7 @@ CockroachDB Serverless runs on all three major cloud platforms, without requirin
 
 [Amazon Aurora Serverless using CDK](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step38_aurora_serverless)
 
-### Class 21 Videos: PostgreSQL Serverless with Node.js, Typescript, and Sequelize 
-
-Reading Material:
+Additional Reading Material:
 
 [Build a Full-Stack Node.js App with CockroachDB Serverless](https://www.cockroachlabs.com/blog/full-stack-node-app/)
 

@@ -790,6 +790,11 @@ Additional Reading Material:
 
 [AWS Lambda](https://github.com/sequelize/sequelize/pull/12642)
 
+### Class 22 Videos: Open API Testing and Development with Swagger and Postman 
+
+[We will start by covering this book: Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
+
+
 ## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 
 [Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)

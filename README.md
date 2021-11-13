@@ -774,6 +774,8 @@ CockroachDB Serverless runs on all three major cloud platforms, without requirin
 
 [How do I connect DBeaver to CockroachDB Serverless?](https://stackoverflow.com/questions/69757289/how-do-i-connect-dbeaver-to-cockroachdb-serverless)
 
+[Amazon Aurora Serverless using CDK](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step38_aurora_serverless)
+
 ### Class 21 Videos: PostgreSQL Serverless with Node.js, Typescript, and Sequelize 
 
 Reading Material:

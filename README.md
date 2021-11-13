@@ -790,6 +790,16 @@ Additional Reading Material:
 
 [AWS Lambda](https://github.com/sequelize/sequelize/pull/12642)
 
+[Class 21: Serverless PostgreSQL Databases and SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/1516508168729989)
+
+[Class 21: Serverless PostgreSQL Databases and SQL in English on YouTube]()
+
+[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on Facebook]()
+
+[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on YouTube]()
+
+
+
 ### Class 22 Videos: Open API Testing and Development with Swagger and Postman 
 
 [We will start by covering this book: Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)

@@ -792,11 +792,11 @@ Additional Reading Material:
 
 [Class 21: Serverless PostgreSQL Databases and SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/1516508168729989)
 
-[Class 21: Serverless PostgreSQL Databases and SQL in English on YouTube]()
+[Class 21: Serverless PostgreSQL Databases and SQL in English on YouTube](https://youtu.be/scrucre7zPM)
 
-[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on Facebook]()
+[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/988005178423196)
 
-[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on YouTube]()
+[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on YouTube](https://youtu.be/XPfJI8xBq4g)
 
 
 

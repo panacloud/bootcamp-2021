@@ -802,7 +802,7 @@ Additional Reading Material:
 
 ### Class 22 Videos: Open API Testing and Development with Swagger and Postman 
 
-[We will start by covering this book: Designing APIs with Swagger and OpenAPI](https://drive.google.com/file/d/1Kqa-_eub5WA34wEe590Nk72gHAGsbY-o/view)
+[We will start by covering this book: Designing APIs with Swagger and OpenAPI](https://drive.google.com/u/0/uc?id=1Kqa-_eub5WA34wEe590Nk72gHAGsbY-o&export=download)
 
 In this class we will cover chapter 1, 2, and 3.
 

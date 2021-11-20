@@ -802,7 +802,9 @@ Additional Reading Material:
 
 ### Class 22 Videos: Open API Testing and Development with Swagger and Postman 
 
-[We will start by covering this book: Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
+[We will start by covering this book: Designing APIs with Swagger and OpenAPI](https://drive.google.com/file/d/1Kqa-_eub5WA34wEe590Nk72gHAGsbY-o/view)
+
+In this class we will cover chapter 1, 2, and 3.
 
 
 ## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI

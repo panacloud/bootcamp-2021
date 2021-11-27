@@ -806,6 +806,14 @@ Additional Reading Material:
 
 In this class we will cover chapter 1, 2, and 3.
 
+[Class 22: OpenAPI Part 1 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/622179202270835)
+
+[Class 22: OpenAPI Part 1 in English on YouTube](https://youtu.be/8onLJFq2p4g)
+
+[Class 22: OpenAPI Part 1 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/433136098201121)
+
+[Class 22: OpenAPI Part 1 in Urdu on YouTube](https://youtu.be/J353SRPRE3s)
+
 
 ## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 

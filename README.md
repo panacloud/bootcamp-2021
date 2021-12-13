@@ -824,6 +824,25 @@ In this class we will cover chapter 1, 2, and 3.
 [Class 23: OpenAPI Part 2 in Urdu on YouTube](https://youtu.be/KZGSMnt5GxM)
 
 
+
+[Class 24: OpenAPI Part 3 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/927412921503124)
+
+[Class 24: OpenAPI Part 3 in English on YouTube](https://youtu.be/UieW2dBNfkM)
+
+[Class 24: OpenAPI Part 3 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/411908177337780)
+
+[Class 24: OpenAPI Part 3 in Urdu on YouTube](https://www.youtube.com/watch?v=EuRkYhSupHQ)
+
+
+[Class 25: OpenAPI Part 4 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/434167448201651)
+
+[Class 25: OpenAPI Part 4 in English on YouTube]()
+
+[Class 25: OpenAPI Part 4 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/398335551825359)
+
+[Class 25: OpenAPI Part 4 in Urdu on YouTube]()
+
+
 ## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 
 [Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)

@@ -840,7 +840,7 @@ In this class we will cover chapter 1, 2, and 3.
 
 [Class 25: OpenAPI Part 4 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/398335551825359)
 
-[Class 25: OpenAPI Part 4 in Urdu on YouTube]()
+[Class 25: OpenAPI Part 4 in Urdu on YouTube](https://youtu.be/BmMbNxKPWzU)
 
 
 ## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI

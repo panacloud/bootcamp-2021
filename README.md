@@ -843,12 +843,33 @@ In this class we will cover chapter 1, 2, and 3.
 [Class 25: OpenAPI Part 4 in Urdu on YouTube](https://youtu.be/BmMbNxKPWzU)
 
 
+[Class 26: OpenAPI Part 5 in English on Facebook](https://www.facebook.com/trouble.maker121/videos/433616651772639)
+
+[Class 26: OpenAPI Part 5 in English on YouTube]()
+
+[Class 26: OpenAPI Part 5 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/620261975953053)
+
+[Class 26: OpenAPI Part 5 in Urdu on YouTube]()
+
+
+
 ## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 
 [Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
 
+Define and document the REST API using OpenAPI specifications.
 
-## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, IDO, Uniswap, and Launchpads
+### Panacloud CLI
+
+Zeeshan Hanif CTO of Panacloud will be joining the Bootcamp 2021 teaching team from this Saturday. He is one of the best blockchain and web3 developers in the world who won the grand prize in Chainlink Hackaton and also the speed programming competition: 
+https://www.youtube.com/watch?v=Gt45XBslPQ4&t=6515s
+
+We will also introduce [Hasan Sohail](https://www.facebook.com/hasan.sohail.58) the 17 years developer who is the lead for the Panacloud Tools Group.
+We will first introduce the Panacloud API technologies which will allow developers to create cloud serverless APIs quickly and create API NFTs and API DAO tokens etc. so that developers can raise millions in the global crypto and API economy.
+
+
+
+## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, NFT, and DAO
 
 [Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
 

@@ -836,7 +836,7 @@ In this class we will cover chapter 1, 2, and 3.
 
 [Class 25: OpenAPI Part 4 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/434167448201651)
 
-[Class 25: OpenAPI Part 4 in English on YouTube]()
+[Class 25: OpenAPI Part 4 in English on YouTube](https://www.youtube.com/watch?v=KcLK01G50pw)
 
 [Class 25: OpenAPI Part 4 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/398335551825359)
 
@@ -845,11 +845,11 @@ In this class we will cover chapter 1, 2, and 3.
 
 [Class 26: OpenAPI Part 5 in English on Facebook](https://www.facebook.com/trouble.maker121/videos/433616651772639)
 
-[Class 26: OpenAPI Part 5 in English on YouTube]()
+[Class 26: OpenAPI Part 5 in English on YouTube](https://www.youtube.com/watch?v=UXlbA3Bcc_c)
 
 [Class 26: OpenAPI Part 5 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/620261975953053)
 
-[Class 26: OpenAPI Part 5 in Urdu on YouTube]()
+[Class 26: OpenAPI Part 5 in Urdu on YouTube](https://youtu.be/VbUCeJicFII)
 
 
 

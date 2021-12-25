@@ -864,8 +864,14 @@ Define and document the REST API using OpenAPI specifications.
 Zeeshan Hanif CTO of Panacloud will be joining the Bootcamp 2021 teaching team from this Saturday. He is one of the best blockchain and web3 developers in the world who won the grand prize in Chainlink Hackaton and also the speed programming competition: 
 https://www.youtube.com/watch?v=Gt45XBslPQ4&t=6515s
 
-We will also introduce [Hasan Sohail](https://www.facebook.com/hasan.sohail.58) the 17 years developer who is the lead for the Panacloud Tools Group.
+We will also introduce [Hasan Sohail](https://www.facebook.com/hasan.sohail.58) the 17 years developer who is the lead for the Panacloud Tools Group in the English section and the 18 years old [Mateen Mustafa](https://www.facebook.com/mateen.blaster.5) who part of the CLI team in the urdu section.
+
 We will first introduce the Panacloud API technologies which will allow developers to create cloud serverless APIs quickly and create API NFTs and API DAO tokens etc. so that developers can raise millions in the global crypto and API economy.
+
+https://www.npmjs.com/package/@panacloud/cli
+
+This is the first Panacloud tool for API developers, much more is coming in the future. API NFTs, Funding and DAO Tokens, and other technologies are also under development. Initially, we are fusing the cloud and blockchain technologies for API developers. AI, IoT Matter, and Metaverse technologies will be added later. 
+
 
 
 

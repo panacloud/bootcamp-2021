@@ -859,7 +859,7 @@ In this class we will cover chapter 1, 2, and 3.
 
 Define and document the REST API using OpenAPI specifications.
 
-### Panacloud CLI
+### Class 27 Videos: Panacloud CLI
 
 Zeeshan Hanif CTO of Panacloud will be joining the Bootcamp 2021 teaching team from this Saturday. He is one of the best blockchain and web3 developers in the world who won the grand prize in Chainlink Hackaton and also the speed programming competition: 
 https://www.youtube.com/watch?v=Gt45XBslPQ4&t=6515s

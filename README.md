@@ -872,7 +872,13 @@ https://www.npmjs.com/package/@panacloud/cli
 
 This is the first Panacloud tool for API developers, much more is coming in the future. API NFTs, Funding and DAO Tokens, and other technologies are also under development. Initially, we are fusing the cloud and blockchain technologies for API developers. AI, IoT Matter, and Metaverse technologies will be added later. 
 
+[Class 27: Panacloud CLI in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/923827094937525
 
+[Class 27: Panacloud CLI in English on YouTube](https://youtu.be/XVUCaK8uUjc)
+
+[Class 27: Panacloud CLI in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/4950777988268322
+
+[Class 27: Panacloud CLI in Urdu on YouTube]()
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, NFT, and DAO

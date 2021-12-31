@@ -874,11 +874,11 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 
 [Class 27: Panacloud CLI in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/923827094937525
 
-[Class 27: Panacloud CLI in English on YouTube](https://youtu.be/XVUCaK8uUjc)
+[Class 27: Panacloud CLI in English on YouTube](https://youtu.be/bwoxfS8-zhE)
 
 [Class 27: Panacloud CLI in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/4950777988268322
 
-[Class 27: Panacloud CLI in Urdu on YouTube]()
+[Class 27: Panacloud CLI in Urdu on YouTube](https://youtu.be/xlKfWCRxC3c)
 
 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, NFT, and DAO

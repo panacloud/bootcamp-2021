@@ -872,11 +872,11 @@ https://www.npmjs.com/package/@panacloud/cli
 
 This is the first Panacloud tool for API developers, much more is coming in the future. API NFTs, Funding and DAO Tokens, and other technologies are also under development. Initially, we are fusing the cloud and blockchain technologies for API developers. AI, IoT Matter, and Metaverse technologies will be added later. 
 
-[Class 27: Panacloud CLI in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/923827094937525
+[Class 27: Panacloud CLI in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/923827094937525)
 
 [Class 27: Panacloud CLI in English on YouTube](https://youtu.be/bwoxfS8-zhE)
 
-[Class 27: Panacloud CLI in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/4950777988268322
+[Class 27: Panacloud CLI in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/4950777988268322)
 
 [Class 27: Panacloud CLI in Urdu on YouTube](https://youtu.be/xlKfWCRxC3c)
 
@@ -884,6 +884,14 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 ## Part 4 Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, NFT, and DAO
 
 [Learning Repo](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts)
+
+[Class 28: Step 00 and 01 - Blockchain, Ethereum Smart Contract, and Hardhat Intro in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/611810023268930)
+
+[Class 28: Step 00 and 01 - Blockchain, Ethereum Smart Contract, and Hardhat Intro in English on YouTube](https://youtu.be/24Nl4fVGH6g)
+
+[Class 28: Step 00 and 01 - Blockchain, Ethereum Smart Contract, and Hardhat Intro in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/394282572468467)
+
+[Class 28: Step 00 and 01 - Blockchain, Ethereum Smart Contract, and Hardhat Intro in Urdu on YouTube](https://youtu.be/wXFi1wkn_5o)
 
 [Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)
 

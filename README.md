@@ -893,6 +893,16 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 
 [Class 28: Step 00 and 01 - Blockchain, Ethereum Smart Contract, and Hardhat Intro in Urdu on YouTube](https://youtu.be/wXFi1wkn_5o)
 
+
+[Class 29: Step 03 Part 1 - Solidity Tutorial in English on Facebook](https://web.facebook.com/trouble.maker121/videos/448321510117377)
+
+[Class 29: Step 03 Part 1 - Solidity Tutorial in English on YouTube](https://youtu.be/NcZMDsjJ-OA)
+
+[Class 29: Step 03 Part 1 - Solidity Tutorial in Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/322455473108467)
+
+[Class 29: Step 03 Part 1 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/rfnAsGNH14E)
+
+
 [Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)
 
 [What is Ethereum? A Beginner's Explanation in Plain English](https://www.youtube.com/watch?v=jxLkbJozKbY)

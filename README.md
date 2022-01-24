@@ -910,7 +910,8 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 
 [Class 30: Step 03 Part 2 - Solidity Tutorial in Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/2126325780860897)
 
-[Class 30: Step 03 Part 2 - Solidity Tutorial in Urdu on YouTube]()
+[Class 30: Step 03 Part 2 - Solidity Tutorial in Urdu on YouTube](https://youtu.be/nhlchB7Mij4)
+
 
 
 [Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)

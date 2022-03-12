@@ -952,6 +952,16 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 
 
 
+[Class 35: Step 04 - Chapter 02 Textbook in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/480580873784502)
+
+[Class 35: Step 04 - Chapter 02 Textbook in English on YouTube](https://youtu.be/eLxMxhfEZ9g)
+
+[Class 35: Step 04 - Chapter 02 Textbook in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/647528262963595)
+
+[Class 35: Step 04 - Chapter 02 Textbook in Urdu on YouTube](https://youtu.be/HYgh3Nix7jQ)
+
+
+
 
 
 [Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)

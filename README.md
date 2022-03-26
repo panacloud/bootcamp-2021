@@ -961,6 +961,15 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 [Class 35: Step 04 - Chapter 02 Textbook in Urdu on YouTube](https://youtu.be/HYgh3Nix7jQ)
 
 
+[Class 36: Step 04 and 05 - Chapter 02 and 03 Textbook in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/7014356888634818)
+
+[Class 36: Step 04 and 05 - Chapter 02 and 03 Textbook in English on YouTube]()
+
+[Class 36: Step 04 and 05  - Chapter 02 and 03 Textbook in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/1050761768987494)
+
+[Class 36: Step 04 and 05 - Chapter 02 and 03 Textbook in Urdu on YouTube](https://youtu.be/1DmqDVVv0Wg)
+
+
 
 
 

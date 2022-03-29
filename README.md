@@ -973,6 +973,17 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 
 
 
+[Class 37: Step 6A - Chapter 07 Textbook in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/1248604509216381)
+
+[Class 37: SStep 6A - Chapter 07 Textbook in English on YouTube](https://youtu.be/rgEbkqhr-2g)
+
+[Class 37: Step 6A - Chapter 07 Textbook in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/703398320695153)
+
+[Class 37: Step 6A - Chapter 07 Textbook in Urdu on YouTube](https://youtu.be/VFIItvWFfOY)
+
+
+
+
 
 
 [Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)

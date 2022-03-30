@@ -983,6 +983,47 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 
 
 
+## Project 8: Create an ICO/IEO/IDO
+
+As you probably know, the ICO ("Initial Coin Offering") industry has been booming, and it's completely reinventing the way new startups kickstart themselves. In fact, go have a look at [Wikipedia's list of highest crowdfunding projects](https://en.wikipedia.org/wiki/List_of_highest-funded_crowdfunding_projects), and you'll notice that blockchain projects absolutely dominate the list.
+
+Also check these:
+
+[ICO list at ICO Drops](https://icodrops.com/). 
+
+[ICO List of Best New Initial Coin Offerings](https://topicolist.com/).
+
+[Top-Rated Crypto Token Sales: List of New ICOs, STOs, IEOs and IDOsTop-Rated Crypto Token Sales: List of New ICOs, STOs, IEOs and IDOs](https://cryptototem.com/ico-list/)
+
+[ICO List Online](https://www.icolistingonline.com/)
+
+[Binance IEO List](https://coincodex.com/ieo-list/binance/)
+
+[Binance Launchpad](https://www.coinspeaker.com/ieo/platform/binance-launchpad/)
+
+[IEO List]{https://icomarks.com/ieo)
+
+[Polkastarter](https://polkastarter.com/)
+
+Porject Part 1: How to Launch a IEO on Binance Lauchpad
+
+[Read how tgo Lauch an IEO](https://appinventiv.com/blog/how-to-launch-an-ieo/)
+
+Your first task of the project is to make a google slides presentation on how to start a IEO on the [Binance Launch Pad](https://www.binance.com/en/support/faq/94ed108ce89d44ab8602aa3c476dfb04).
+
+Note: Also document the alternatives to Binance Launchpad.
+
+
+Porject Part 2: How to Launch a IDO on Polkastarter
+
+Review the [list of top fundraising platforms](https://cryptorank.io/fundraising-platforms)
+
+Your second task of the project is to make a google slides presentation on how to start a IDO on the [Polkastarter](https://polkastarter.com/).
+
+
+
+
+
 
 
 

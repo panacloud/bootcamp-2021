@@ -1048,6 +1048,8 @@ You can use the [openzeppelin crowd sale contracts](https://docs.openzeppelin.co
 
 Also write exentisive tests, for example we will simply send a transaction of 1 ETH from a random account to the contract. After the transaction, we should expect the account to have received Pako, while the contract's balance should have been reduced.
 
+Note: Before you get started writing the token contract we suggest you review [access control](https://docs.openzeppelin.com/contracts/4.x/access-control).
+
 Porject Part 5: Trying it with MetaMask
 
 While it's always good to test your code, it's often more satisfying to see the results of your work wrapped in a nice UI. Let's see how we can deploy our contracts and get some Pako tokens into our MetaMask wallet!
@@ -1066,7 +1068,13 @@ Once you're on the token page, click on "Add custom token" and paste in the toke
 
 After confirming that you want to add the token, you should be able to see your Pako balance right next to your ETH balance in the wallet. How cool!
 
+Porject Part 6: Trying it with Multisignature Wallets
 
+[Read](https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/)
+
+Now use [Gnosis Safe]{https://gnosis-safe.io/) with multi-sigs to do what you did in the last part.
+
+Reading:
 
 [Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)
 

@@ -1003,7 +1003,7 @@ Also check these links for latest listings:
 
 [Binance Launchpad](https://www.coinspeaker.com/ieo/platform/binance-launchpad/)
 
-[IEO List]{https://icomarks.com/ieo)
+[IEO List](https://icomarks.com/ieo)
 
 [Polkastarter](https://polkastarter.com/)
 
@@ -1074,7 +1074,7 @@ Porject Part 6: Trying it with Multisignature Wallets
 
 Now use [Gnosis Safe]{https://gnosis-safe.io/) with multi-sigs to do what you did in the last part.
 
-Reading:
+Readings:
 
 [Ethereum Text Book](https://github.com/ethereumbook/ethereumbook)
 

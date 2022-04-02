@@ -982,6 +982,15 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 [Class 37: Step 6A - Chapter 07 Textbook in Urdu on YouTube](https://youtu.be/VFIItvWFfOY)
 
 
+[Class 38: Step 6B - Vacation Project Assignment in English on Facebook](https://www.facebook.com/inampaki/videos/717989595995770)
+
+[Class 38: SStep 6B - Vacation Project Assignment in English on YouTube]()
+
+[Class 38: Step 6B - Vacation Project Assignment in Urdu on Facebook]()
+
+[Class 38: Step 6B - Vacation Project Assignment in Urdu on YouTube]()
+
+## We will take a 1 month Ramdan/Summer Vacation and do the following project during this vacation. The project is due after Eid. Classes will also continue after Eid.
 
 ## Project 8: Create a Token and Launch ICO/IEO/IDO
 

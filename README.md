@@ -984,11 +984,11 @@ This is the first Panacloud tool for API developers, much more is coming in the 
 
 [Class 38: Step 6B - Vacation Project Assignment in English on Facebook](https://www.facebook.com/inampaki/videos/717989595995770)
 
-[Class 38: SStep 6B - Vacation Project Assignment in English on YouTube]()
+[Class 38: SStep 6B - Vacation Project Assignment in English on YouTube](https://youtu.be/MXINU6LLC2A)
 
-[Class 38: Step 6B - Vacation Project Assignment in Urdu on Facebook]()
+[Class 38: Step 6B - Vacation Project Assignment in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/274105618254173)
 
-[Class 38: Step 6B - Vacation Project Assignment in Urdu on YouTube]()
+[Class 38: Step 6B - Vacation Project Assignment in Urdu on YouTube](https://youtu.be/hLVxr-1seaA)
 
 ## We will take a 1 month Ramdan/Summer Vacation and do the following project during this vacation. The project is due after Eid. Classes will also continue after Eid.
 

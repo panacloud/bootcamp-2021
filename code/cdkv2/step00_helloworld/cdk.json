@@ -1,0 +1,6 @@
+{
+  "app": "npx ts-node --prefer-ts-exts bin/step00_helloworld.ts",
+  "context": {
+    
+  }
+}

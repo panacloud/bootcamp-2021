@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const TaskCollection_1 = require("./TaskCollection");
+let icollection = new TaskCollection_1.TaskCollection();
+let icollection2 = new TaskCollection_1.TaskCollection();
+icollection.addTodo("first task");
+icollection.addTodo("eat mangos");
+icollection2.addTodo("second task");
+icollection2.addTodo("eat apple");
+icollection.taskDone(1);
+icollection.printAll();
+icollection2.taskDone(2);
+icollection2.printAll();
+icollection2.getTodoItems(true).forEach(item => item.printTask());
+let obj = { a: 5, b: 3 };

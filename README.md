@@ -211,6 +211,8 @@ Inam ul Haq, Qasim, Anees, Faheem, Shahrukh, and Zia Khan.
 
 [Python Tutorial For Beginners - Python Full Course From Scratch - Python Programming - Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw)
 
+[10 Best Python Books for Beginners & Advanced Programmers](https://www.interviewbit.com/blog/python-books-for-beginners)
+
 ### Learn Rust
 
 [The Official Rust Book](https://doc.rust-lang.org/book/)

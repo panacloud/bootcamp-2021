@@ -747,6 +747,8 @@ Reading Material:
 
 [W3C SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 
+[Learn basic and advanced concepts of SQL](https://www.scaler.com/topics/sql/)
+
 [Class 20: Learn SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/641765553487507)
 
 [Class 20: Learn SQL in English on YouTube](https://youtu.be/JmAnEElqU5Q)
